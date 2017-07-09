@@ -2,14 +2,15 @@
     "id": "5ecaf04a-68d0-46dc-b06e-919f8517c930",
     "modelName": "GMRoom",
     "mvc": "1.0",
-    "name": "room0",
+    "name": "rm_MainMenu",
     "IsDnD": false,
     "creationCodeFile": "",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        
+        "2eba2207-b599-4941-8ca9-2aff346efb64",
+        "f8ccaacb-2969-49c3-8ba5-9521b95b1474"
     ],
     "layers": [
         {
@@ -35,7 +36,54 @@
             "userdefined_depth": false,
             "visible": true,
             "instances": [
-                
+                {
+                    "id": "2eba2207-b599-4941-8ca9-2aff346efb64",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_3CAD7448",
+                    "x": 448,
+                    "y": 64,
+                    "IsDnD": false,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_3CAD7448",
+                    "objId": "6b9b6796-d255-44b8-9a1a-330da6dc9ae0",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
+                },
+                {
+                    "id": "f8ccaacb-2969-49c3-8ba5-9521b95b1474",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_22FFB904",
+                    "x": 448,
+                    "y": 160,
+                    "IsDnD": false,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_22FFB904",
+                    "objId": "4baa273c-e083-4310-bd8c-9981236897f8",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
+                }
             ]
         },
         {
@@ -60,14 +108,14 @@
             "name": "Background",
             "userdefined_depth": false,
             "visible": true,
-            "animationFPS": 15,
+            "animationFPS": 1,
             "animationSpeedType": 0,
             "colour": {
-                "Value": 4278190080
+                "Value": 4294967295
             },
             "hspeed": 0,
             "htiled": false,
-            "spriteId": "00000000-0000-0000-0000-000000000000",
+            "spriteId": "9ec3d712-ca67-4fb9-ab85-03ee026db577",
             "stretch": false,
             "userdefined_animFPS": false,
             "vspeed": 0,
