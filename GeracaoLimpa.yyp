@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "63b6b245-092c-4723-983b-9ec4cf84a5b3",
+            "Value": {
+                "id": "4eb2f8de-b699-4850-852c-0cb35f8025e5",
+                "resourcePath": "sprites\\spr_MainMenu_ExitGame\\spr_MainMenu_ExitGame.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6413d4fc-c9e7-45f6-981e-6f08f4a308ef",
             "Value": {
                 "id": "726894ee-62f5-4f9a-be00-13aa386de166",
@@ -199,11 +207,43 @@
             }
         },
         {
+            "Key": "b0b7c85c-da6a-4634-8bae-44edd4a09dcf",
+            "Value": {
+                "id": "924b2056-8176-44c0-b95d-3add2a4d3aa0",
+                "resourcePath": "fonts\\fnt_MainMenu_Buttons\\fnt_MainMenu_Buttons.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "b0de38ef-f211-4b1b-b60a-12d4ad906fe8",
+            "Value": {
+                "id": "763bae1e-425e-427a-9852-a0dd69145cca",
+                "resourcePath": "objects\\obj_MainMenu_ExitGame\\obj_MainMenu_ExitGame.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b0fd6b92-b4b8-4fd9-a603-122a9ac4172b",
+            "Value": {
+                "id": "ee7216a9-9095-4d3c-bf03-14a3b98cdc66",
+                "resourcePath": "objects\\obj_MainMenu_Themes\\obj_MainMenu_Themes.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b212ae64-1eb1-450c-b8ad-7de0c29cf869",
             "Value": {
                 "id": "9657e33f-a199-4939-bf06-3fe84bc3cdde",
                 "resourcePath": "views\\b212ae64-1eb1-450c-b8ad-7de0c29cf869.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c28c52d2-a90a-4c4c-8016-6ce865a3dbc8",
+            "Value": {
+                "id": "210a8429-8ae7-4e38-8c2e-8473aac2cd40",
+                "resourcePath": "objects\\obj_MainMenu_Button\\obj_MainMenu_Button.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -220,6 +260,14 @@
                 "id": "e241ab17-c0de-4b94-a469-9142a6182ccf",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e6871f52-d923-4e19-a19a-314e68a1ed5b",
+            "Value": {
+                "id": "af6c8fd9-9862-4fe6-8a2a-6f659e9b943e",
+                "resourcePath": "sprites\\spr_MainMenu_Themes\\spr_MainMenu_Themes.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
