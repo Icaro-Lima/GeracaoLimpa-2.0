@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0e4a4a74-de65-4f23-a213-6d9d29963357",
+            "Value": {
+                "id": "d7b6675f-aac8-4612-b675-2516e35933b1",
+                "resourcePath": "sprites\\spr_Traffic_InitialRoom_Background\\spr_Traffic_InitialRoom_Background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "10210c1b-a0d9-4ad2-a78c-eac77d6e53cd",
             "Value": {
                 "id": "f03f8b8e-2096-4cd5-8d6d-8d14a16ea7b8",
@@ -90,7 +98,7 @@
             "Key": "5ecaf04a-68d0-46dc-b06e-919f8517c930",
             "Value": {
                 "id": "be43faae-044a-4d9d-a886-d2b3279dbaca",
-                "resourcePath": "rooms\\rm_MainMenu\\rm_MainMenu.yy",
+                "resourcePath": "rooms\\rm_Traffic_0\\rm_Traffic_0.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -148,6 +156,14 @@
                 "id": "2494bafc-f1de-4dd5-9e52-8370eaf34846",
                 "resourcePath": "views\\7d0e483d-2a92-4cae-b004-bb06329d4c8d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "817b6260-491c-4755-ad39-51b38060b006",
+            "Value": {
+                "id": "29f9c59e-1136-45ed-a147-f5a8d796ca1e",
+                "resourcePath": "rooms\\rm_MainMenu\\rm_MainMenu.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
