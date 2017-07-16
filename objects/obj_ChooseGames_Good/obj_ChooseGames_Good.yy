@@ -5,7 +5,7 @@
     "name": "obj_ChooseGames_Good",
     "eventList": [
         {
-            "id": "8cfea359-1a50-4095-8ed3-dc9de0d4a020",
+            "id": "467bf0eb-4bf5-4663-b357-05d2caa49eaa",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
