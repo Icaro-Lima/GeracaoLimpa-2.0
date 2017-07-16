@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_ChooseGames_Good",
     "eventList": [
-        
+        {
+            "id": "8cfea359-1a50-4095-8ed3-dc9de0d4a020",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "8d97dea3-ddb7-4f6b-8bd1-a1180642aade"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
