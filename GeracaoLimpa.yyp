@@ -71,6 +71,22 @@
             }
         },
         {
+            "Key": "32815c3f-9b1e-452b-8466-a29a448dd58a",
+            "Value": {
+                "id": "53671924-19b2-4122-b52f-4541bb721586",
+                "resourcePath": "objects\\obj_ChooseGames_Like\\obj_ChooseGames_Like.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3692af5d-8195-43e8-8d33-9fa14faf3272",
+            "Value": {
+                "id": "20bed00e-0d5f-4ddb-8261-047135884233",
+                "resourcePath": "objects\\obj_ChooseGames_Unlike\\obj_ChooseGames_Unlike.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "46610a28-5131-43b7-b569-f640386d6510",
             "Value": {
                 "id": "59073c62-a43e-42b9-a5f1-84bd1d207e1a",
@@ -92,6 +108,22 @@
                 "id": "b666ef77-34ed-4bc8-9538-305f2225ea95",
                 "resourcePath": "views\\50b8c496-a350-4b89-ab73-faf94fb8c9ec.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "55b1f55a-446d-4681-93c3-15853835e2d0",
+            "Value": {
+                "id": "a9214d88-d55e-4eb6-b29b-eb74367957de",
+                "resourcePath": "sprites\\spr_ChooseGames_TrayForLikeAndUnlike\\spr_ChooseGames_TrayForLikeAndUnlike.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "59e5ecf8-79ef-4875-ab20-f99547206701",
+            "Value": {
+                "id": "4d934366-a7d9-44f4-b491-2c0f0b6ef16d",
+                "resourcePath": "objects\\obj_ChooseGames_TrayLikeAndUnline\\obj_ChooseGames_TrayLikeAndUnline.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -207,6 +239,14 @@
             }
         },
         {
+            "Key": "9635bf3d-99a6-443a-a1f8-71f99c754721",
+            "Value": {
+                "id": "4f99288a-ac42-46ff-8e66-e7608902189f",
+                "resourcePath": "sprites\\spr_ChooseGames_Like\\spr_ChooseGames_Like.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "992876e0-fa8f-4983-a164-3386c0e7fc6c",
             "Value": {
                 "id": "030ef23d-3b24-4465-8d00-420e69980f65",
@@ -308,6 +348,14 @@
                 "id": "a87f3c73-e7d2-4d0c-8ffa-522ad5b1906a",
                 "resourcePath": "views\\eb992808-318b-44f4-8c74-c827dd755e74.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f3f89a08-7e10-4bcf-8efc-af593987b2d6",
+            "Value": {
+                "id": "bd4ccf12-e254-411b-a5b8-2cd3126b462a",
+                "resourcePath": "sprites\\spr_ChooseGames_Unlike\\spr_ChooseGames_Unlike.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
