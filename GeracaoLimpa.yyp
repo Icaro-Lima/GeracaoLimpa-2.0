@@ -111,22 +111,6 @@
             }
         },
         {
-            "Key": "55b1f55a-446d-4681-93c3-15853835e2d0",
-            "Value": {
-                "id": "a9214d88-d55e-4eb6-b29b-eb74367957de",
-                "resourcePath": "sprites\\spr_ChooseGames_TrayForLikeAndUnlike\\spr_ChooseGames_TrayForLikeAndUnlike.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "59e5ecf8-79ef-4875-ab20-f99547206701",
-            "Value": {
-                "id": "4d934366-a7d9-44f4-b491-2c0f0b6ef16d",
-                "resourcePath": "objects\\obj_ChooseGames_TrayLikeAndUnline\\obj_ChooseGames_TrayLikeAndUnline.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "5ecaf04a-68d0-46dc-b06e-919f8517c930",
             "Value": {
                 "id": "be43faae-044a-4d9d-a886-d2b3279dbaca",
@@ -300,6 +284,14 @@
                 "id": "9657e33f-a199-4939-bf06-3fe84bc3cdde",
                 "resourcePath": "views\\b212ae64-1eb1-450c-b8ad-7de0c29cf869.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b44e2f32-1215-4708-ac45-b8010f21cb24",
+            "Value": {
+                "id": "02b4f56f-925c-4cea-b7ec-3c9c016e5fc3",
+                "resourcePath": "objects\\obj_ChooseGames_LikeAndUnlineAnimation\\obj_ChooseGames_LikeAndUnlineAnimation.yy",
+                "resourceType": "GMObject"
             }
         },
         {
