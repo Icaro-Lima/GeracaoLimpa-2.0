@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "7188f63f-362d-4151-8950-1b4f4068ca9f",
+            "Value": {
+                "id": "9d084ecd-8a1e-4d89-99c2-87f1d1acedb3",
+                "resourcePath": "objects\\obj_ChooseGames_Wrong\\obj_ChooseGames_Wrong.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7894fd98-1ab1-4b3a-830f-4f7fee29a32f",
             "Value": {
                 "id": "1680bf02-d1cd-4598-816c-9305043bc1c5",
@@ -196,6 +204,14 @@
                 "id": "7d8e13e0-4d54-4234-a1a1-bed75d629de4",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "8d97dea3-ddb7-4f6b-8bd1-a1180642aade",
+            "Value": {
+                "id": "f303b09d-31ca-40aa-b018-b6d16b2d2a62",
+                "resourcePath": "objects\\obj_ChooseGames_Good\\obj_ChooseGames_Good.yy",
+                "resourceType": "GMObject"
             }
         },
         {

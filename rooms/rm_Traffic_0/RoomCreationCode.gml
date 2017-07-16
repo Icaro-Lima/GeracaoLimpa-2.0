@@ -1,3 +1,3 @@
 global.points = 0
 
-global.answer = true
+global.answer = false
