@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0704f27e-2fe8-4226-8fbf-1a4e7b100c8f",
+            "Value": {
+                "id": "2153763f-a0cd-4431-bcfa-a45703724662",
+                "resourcePath": "sprites\\spr_Traffic_5\\spr_Traffic_5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "080ae08e-9bef-4f2e-aa4c-9ea0b5cab7b2",
             "Value": {
                 "id": "8287913b-f4de-42f5-8e53-8211795c03d8",
@@ -143,6 +151,14 @@
             }
         },
         {
+            "Key": "4d565cb4-aa86-493a-b45c-42b855719aeb",
+            "Value": {
+                "id": "86859411-6cc7-496a-a6e2-d21411826445",
+                "resourcePath": "rooms\\rm_Traffic_Congratulations\\rm_Traffic_Congratulations.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "4f7b2494-343f-4663-b181-bd1200c904d2",
             "Value": {
                 "id": "cb0990dd-623c-48fa-9121-534fd681496d",
@@ -239,6 +255,22 @@
             }
         },
         {
+            "Key": "727386ef-a404-42e0-9d01-643825d525a2",
+            "Value": {
+                "id": "d7e7c4d5-5396-494a-9d50-3b926d118c2b",
+                "resourcePath": "sprites\\spr_Traffic_3\\spr_Traffic_3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "737e896f-71a0-4c9d-a2d4-9a5cabcf5c97",
+            "Value": {
+                "id": "8b0d5679-2c16-4f24-aa36-2f2d3f934146",
+                "resourcePath": "rooms\\rm_Traffic_4\\rm_Traffic_4.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "7894fd98-1ab1-4b3a-830f-4f7fee29a32f",
             "Value": {
                 "id": "1680bf02-d1cd-4598-816c-9305043bc1c5",
@@ -287,11 +319,27 @@
             }
         },
         {
+            "Key": "8b6708ec-ab54-4c50-98b3-e0a6d06afbd1",
+            "Value": {
+                "id": "58d41253-095b-430a-9d4c-68e1bfb9631a",
+                "resourcePath": "rooms\\rm_Traffic_5\\rm_Traffic_5.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "8d97dea3-ddb7-4f6b-8bd1-a1180642aade",
             "Value": {
                 "id": "f303b09d-31ca-40aa-b018-b6d16b2d2a62",
                 "resourcePath": "objects\\obj_ChooseGames_Good\\obj_ChooseGames_Good.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8e300cfa-01ae-4a3a-bf95-01ed49b55c6c",
+            "Value": {
+                "id": "e625120a-1e51-41cb-b173-3a6878ee5f94",
+                "resourcePath": "rooms\\rm_Traffic_3\\rm_Traffic_3.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -316,6 +364,14 @@
                 "id": "31762a63-96ec-4fb0-bf6b-11b95ad3135e",
                 "resourcePath": "views\\8ff03976-f451-45db-af4c-769a4d710533.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9107abe9-1042-455d-94d0-22513cc9c1a5",
+            "Value": {
+                "id": "074e0d14-acaf-4c63-9194-f03af5dc9634",
+                "resourcePath": "sprites\\spr_Traffic_4\\spr_Traffic_4.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
