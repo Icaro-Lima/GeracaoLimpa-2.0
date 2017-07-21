@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_ChooseGames_Wrong",
     "eventList": [
-        
+        {
+            "id": "7341b393-df25-4e6d-91d3-e5f29243870a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "7188f63f-362d-4151-8950-1b4f4068ca9f"
+        },
+        {
+            "id": "de967dd8-0300-4bcd-a2db-df5298e3a0ae",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "7188f63f-362d-4151-8950-1b4f4068ca9f"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
