@@ -47,11 +47,11 @@
             }
         },
         {
-            "Key": "0b7ed28c-a0ea-4b44-92cd-7470870e4b0f",
+            "Key": "0d8c04b0-c6dc-4d31-a279-d5f9f711621d",
             "Value": {
-                "id": "eeafa6ff-c2a8-424c-947a-2ef74d19c614",
-                "resourcePath": "sprites\\spr_Credits_Alex\\spr_Credits_Alex.yy",
-                "resourceType": "GMSprite"
+                "id": "9c0d3da1-f8b2-4a3b-95b5-b4d3a1db5c31",
+                "resourcePath": "objects\\obj_Credits_Undo\\obj_Credits_Undo.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "6e2a2321-420c-4fb3-a949-530ec2a0b663",
+            "Value": {
+                "id": "f4bbd8d4-46dc-4621-9683-8dd99a22aff2",
+                "resourcePath": "sprites\\spr_Undo\\spr_Undo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7188f63f-362d-4151-8950-1b4f4068ca9f",
             "Value": {
                 "id": "9d084ecd-8a1e-4d89-99c2-87f1d1acedb3",
@@ -250,7 +258,7 @@
             "Key": "7ebd5339-5f99-46d2-af9c-f006124d5a0b",
             "Value": {
                 "id": "0c23ee3f-e4db-48d3-803b-430bc4a540a0",
-                "resourcePath": "sprites\\spr_Credits_Flavio\\spr_Credits_Flavio.yy",
+                "resourcePath": "sprites\\spr_Credits_AlexFlavio\\spr_Credits_AlexFlavio.yy",
                 "resourceType": "GMSprite"
             }
         },

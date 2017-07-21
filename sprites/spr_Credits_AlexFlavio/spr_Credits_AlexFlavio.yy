@@ -2,7 +2,7 @@
     "id": "7ebd5339-5f99-46d2-af9c-f006124d5a0b",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_Credits_Flavio",
+    "name": "spr_Credits_AlexFlavio",
     "For3D": false,
     "HTile": false,
     "VTile": false,
