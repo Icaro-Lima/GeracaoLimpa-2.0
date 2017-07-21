@@ -2,7 +2,7 @@
     "id": "17421997-ae9a-46d5-9ba0-6860341ae69b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Start_0",
+    "name": "obj_Star_0",
     "eventList": [
         {
             "id": "08bcbdf3-0375-47df-a4f9-3e5206a9e193",
