@@ -2,4 +2,4 @@
 // You can write your code in this editor
 
 event_inherited();
-MyText = "Comecar!"
+MyText = "Começar!"
