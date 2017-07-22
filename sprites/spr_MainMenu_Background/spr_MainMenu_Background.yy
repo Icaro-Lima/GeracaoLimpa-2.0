@@ -1,5 +1,5 @@
 {
-    "id": "9ec3d712-ca67-4fb9-ab85-03ee026db577",
+    "id": "ebbdcd03-6d63-4ff9-a182-d6a58325ca4b",
     "modelName": "GMSprite",
     "mvc": "1.12",
     "name": "spr_MainMenu_Background",
@@ -15,24 +15,24 @@
     "coltolerance": 0,
     "frames": [
         {
-            "id": "88cb7b91-ec01-4266-ad07-2f9fa49a7950",
+            "id": "e1d65700-fd67-4c2a-89ca-c7d85f3a5335",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
-            "SpriteId": "9ec3d712-ca67-4fb9-ab85-03ee026db577",
+            "SpriteId": "ebbdcd03-6d63-4ff9-a182-d6a58325ca4b",
             "compositeImage": {
-                "id": "b4e36764-a8dd-489f-ab8c-5dbd6b490bfa",
+                "id": "b4e339e1-6d9f-4db5-b77a-b21173f7881b",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "88cb7b91-ec01-4266-ad07-2f9fa49a7950",
+                "FrameId": "e1d65700-fd67-4c2a-89ca-c7d85f3a5335",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "2c27ea9f-7981-4f96-8d7c-4257a409a5e2",
+                    "id": "db954f4e-efd7-4087-8a70-b15ba031b2c7",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "88cb7b91-ec01-4266-ad07-2f9fa49a7950",
-                    "LayerId": "18fe1cc8-979d-4b30-81c8-da23803d3077"
+                    "FrameId": "e1d65700-fd67-4c2a-89ca-c7d85f3a5335",
+                    "LayerId": "4e914d70-f649-4391-ad35-1e300f92211b"
                 }
             ]
         }
@@ -42,10 +42,10 @@
     "height": 576,
     "layers": [
         {
-            "id": "18fe1cc8-979d-4b30-81c8-da23803d3077",
+            "id": "4e914d70-f649-4391-ad35-1e300f92211b",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
-            "SpriteId": "9ec3d712-ca67-4fb9-ab85-03ee026db577",
+            "SpriteId": "ebbdcd03-6d63-4ff9-a182-d6a58325ca4b",
             "blendMode": 0,
             "isLocked": false,
             "name": "default",
@@ -54,7 +54,7 @@
         }
     ],
     "origin": 0,
-    "playbackSpeed": 1,
+    "playbackSpeed": 15,
     "playbackSpeedType": 0,
     "sepmasks": false,
     "swatchColours": null,
