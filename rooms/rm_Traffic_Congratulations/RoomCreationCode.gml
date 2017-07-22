@@ -1,0 +1,1 @@
+global.best_traffic_chooseGame_points = max(global.best_traffic_chooseGame_points, global.traffic_chooseGame_points)
