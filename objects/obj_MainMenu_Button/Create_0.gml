@@ -3,3 +3,5 @@
 
 MyText = ""
 MouseInside = false
+text_color_0 = make_color_rgb(113, 201, 175)
+text_color_1 = make_color_rgb(150, 223, 186)

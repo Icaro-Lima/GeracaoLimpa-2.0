@@ -1,2 +1,11 @@
-global.button_text_color0 = make_color_rgb(113, 201, 175)
-global.button_text_color1 = make_color_rgb(150, 223, 186)
+global.trophy_array = []
+
+ini_open("save.ini")
+if ini_section_exists("trophy_array") {
+	i = 0
+	while ini_key_exists("trophy_array", string(i)) {
+		global.trophy_array[i] = ini_read_string("trophy_array", string(i), "Error! Reporte!")
+		i++
+	}
+}
+ini_close()

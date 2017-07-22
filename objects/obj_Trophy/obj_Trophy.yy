@@ -1,19 +1,10 @@
 {
-    "id": "0a209aae-d28d-41ca-835f-7dab73c36c33",
+    "id": "7f1934d1-95bf-401c-b944-a6d6ce6648a4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_ChooseGames_Traffic_Congratulations",
+    "name": "obj_Trophy",
     "eventList": [
-        {
-            "id": "58200a4f-8c66-4c40-b38c-951fac2933a6",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "0a209aae-d28d-41ca-835f-7dab73c36c33"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
