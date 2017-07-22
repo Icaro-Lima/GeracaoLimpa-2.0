@@ -2,7 +2,7 @@
     "id": "56dca740-7d74-4405-aed0-a42e1ecd45e2",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Star_2",
+    "name": "obj_Traffic_ChooseGames_Star_2",
     "eventList": [
         {
             "id": "aafc568d-d776-404e-9e54-93884d32d70b",

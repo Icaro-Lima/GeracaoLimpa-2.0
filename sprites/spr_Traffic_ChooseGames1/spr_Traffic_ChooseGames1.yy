@@ -2,7 +2,7 @@
     "id": "e11f8f92-7435-40bc-a7dd-447a018d3a27",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_Traffic_1",
+    "name": "spr_Traffic_ChooseGames1",
     "For3D": false,
     "HTile": false,
     "VTile": false,

@@ -42,7 +42,7 @@
             "Key": "0704f27e-2fe8-4226-8fbf-1a4e7b100c8f",
             "Value": {
                 "id": "2153763f-a0cd-4431-bcfa-a45703724662",
-                "resourcePath": "sprites\\spr_Traffic_5\\spr_Traffic_5.yy",
+                "resourcePath": "sprites\\spr_Traffic_ChooseGames5\\spr_Traffic_ChooseGames5.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -66,7 +66,7 @@
             "Key": "0e4a4a74-de65-4f23-a213-6d9d29963357",
             "Value": {
                 "id": "d7b6675f-aac8-4612-b675-2516e35933b1",
-                "resourcePath": "sprites\\spr_Traffic_InitialRoom_Background\\spr_Traffic_InitialRoom_Background.yy",
+                "resourcePath": "sprites\\spr_Traffic_ChooseGames0\\spr_Traffic_ChooseGames0.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -90,7 +90,7 @@
             "Key": "17421997-ae9a-46d5-9ba0-6860341ae69b",
             "Value": {
                 "id": "9f5001d5-2361-43d6-afa8-c589735ae6f5",
-                "resourcePath": "objects\\obj_Star_0\\obj_Star_0.yy",
+                "resourcePath": "objects\\obj_Traffic_ChooseGames_Star_1\\obj_Traffic_ChooseGames_Star_1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -202,7 +202,7 @@
             "Key": "56dca740-7d74-4405-aed0-a42e1ecd45e2",
             "Value": {
                 "id": "866383e5-c700-4b47-ac07-a7aec1009441",
-                "resourcePath": "objects\\obj_Star_2\\obj_Star_2.yy",
+                "resourcePath": "objects\\obj_Traffic_ChooseGames_Star_2\\obj_Traffic_ChooseGames_Star_2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -274,7 +274,7 @@
             "Key": "727386ef-a404-42e0-9d01-643825d525a2",
             "Value": {
                 "id": "d7e7c4d5-5396-494a-9d50-3b926d118c2b",
-                "resourcePath": "sprites\\spr_Traffic_3\\spr_Traffic_3.yy",
+                "resourcePath": "sprites\\spr_Traffic_ChooseGames3\\spr_Traffic_ChooseGames3.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -386,7 +386,7 @@
             "Key": "9107abe9-1042-455d-94d0-22513cc9c1a5",
             "Value": {
                 "id": "074e0d14-acaf-4c63-9194-f03af5dc9634",
-                "resourcePath": "sprites\\spr_Traffic_4\\spr_Traffic_4.yy",
+                "resourcePath": "sprites\\spr_Traffic_ChooseGames4\\spr_Traffic_ChooseGames4.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -434,7 +434,7 @@
             "Key": "9b610b68-9b68-446c-8102-ab779c49ab20",
             "Value": {
                 "id": "7187f433-614e-4ddb-8453-5c809d9f9784",
-                "resourcePath": "sprites\\spr_Traffic_2\\spr_Traffic_2.yy",
+                "resourcePath": "sprites\\spr_Traffic_ChooseGames2\\spr_Traffic_ChooseGames2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -530,7 +530,7 @@
             "Key": "c2cbb8b9-8256-48f3-bf72-7fdda13df1bc",
             "Value": {
                 "id": "cc81f36b-4806-463f-a93a-db21c9a894d7",
-                "resourcePath": "objects\\obj_Star_3\\obj_Star_3.yy",
+                "resourcePath": "objects\\obj_Traffic_ChooseGames_Star_3\\obj_Traffic_ChooseGames_Star_3.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -586,7 +586,7 @@
             "Key": "e11f8f92-7435-40bc-a7dd-447a018d3a27",
             "Value": {
                 "id": "afbca7a9-15cd-4850-870f-d80d82e25325",
-                "resourcePath": "sprites\\spr_Traffic_1\\spr_Traffic_1.yy",
+                "resourcePath": "sprites\\spr_Traffic_ChooseGames1\\spr_Traffic_ChooseGames1.yy",
                 "resourceType": "GMSprite"
             }
         },
