@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "02ba9abf-b4f0-49b9-8d4d-28c516c3a4af",
-            "Value": {
-                "id": "8277d526-c9ea-4f46-b77d-2e8e6e5d7b07",
-                "resourcePath": "objects\\obj_Trophy_Blank\\obj_Trophy_Blank.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "05704f36-cd06-4fac-98a2-03431e3fe62e",
             "Value": {
                 "id": "43a35a14-3a5a-4ed9-997a-74ecd0b4fdf9",
@@ -100,14 +92,6 @@
                 "id": "9f5001d5-2361-43d6-afa8-c589735ae6f5",
                 "resourcePath": "objects\\obj_Star_0\\obj_Star_0.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "18a610ec-9a60-429f-abed-fed80326173f",
-            "Value": {
-                "id": "750b1700-f034-4a8c-bf2f-9fed3aba8006",
-                "resourcePath": "views\\18a610ec-9a60-429f-abed-fed80326173f.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -327,27 +311,11 @@
             }
         },
         {
-            "Key": "7f1934d1-95bf-401c-b944-a6d6ce6648a4",
-            "Value": {
-                "id": "6f7f4120-2781-4710-a501-c8fa0e6f3330",
-                "resourcePath": "objects\\obj_Trophy\\obj_Trophy.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "817b6260-491c-4755-ad39-51b38060b006",
             "Value": {
                 "id": "29f9c59e-1136-45ed-a147-f5a8d796ca1e",
                 "resourcePath": "rooms\\rm_MainMenu\\rm_MainMenu.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "8300c4c5-dff6-4ec5-8e35-79635a7dddf9",
-            "Value": {
-                "id": "15c667a0-0937-406c-a58e-6f8bc59017ce",
-                "resourcePath": "scripts\\scr_AddTrophy\\scr_AddTrophy.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -551,14 +519,6 @@
             }
         },
         {
-            "Key": "bb9cb481-dbbb-45fb-8953-6b1013820b29",
-            "Value": {
-                "id": "62a0d1ce-4d8f-475e-b4e2-ddedebfd7356",
-                "resourcePath": "scripts\\scr_SaveTrophies\\scr_SaveTrophies.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "c28c52d2-a90a-4c4c-8016-6ce865a3dbc8",
             "Value": {
                 "id": "210a8429-8ae7-4e38-8c2e-8473aac2cd40",
@@ -579,14 +539,6 @@
             "Value": {
                 "id": "21146935-02f4-4e6b-8216-c7e24ce1d6b8",
                 "resourcePath": "objects\\obj_MainMenu_Tray\\obj_MainMenu_Tray.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "c7236ad1-6c01-4c06-bd6b-4b48e979b7fb",
-            "Value": {
-                "id": "d2cb7e7b-b21f-4f41-937e-7fc978952a4b",
-                "resourcePath": "objects\\obj_Trophy_Traffic_ChooseGames\\obj_Trophy_Traffic_ChooseGames.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -725,19 +677,10 @@
                 "resourcePath": "sprites\\spr_Star\\spr_Star.yy",
                 "resourceType": "GMSprite"
             }
-        },
-        {
-            "Key": "fda76060-3ff3-47cf-992f-3f4a655e98b3",
-            "Value": {
-                "id": "05d2c335-f0cb-4288-abe7-2cc02d6f49c5",
-                "resourcePath": "objects\\obj_Traffic_ChooseGames_Congratulations_Trophy\\obj_Traffic_ChooseGames_Congratulations_Trophy.yy",
-                "resourceType": "GMObject"
-            }
         }
     ],
     "script_order": [
-        "bb9cb481-dbbb-45fb-8953-6b1013820b29",
-        "8300c4c5-dff6-4ec5-8e35-79635a7dddf9"
+        
     ],
     "tutorial": ""
 }

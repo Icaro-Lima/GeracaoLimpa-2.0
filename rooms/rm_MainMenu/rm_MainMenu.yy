@@ -60,7 +60,7 @@
                     "objId": "c3dc5cac-25d3-4801-9439-1c942dad5482",
                     "rotation": 0,
                     "scaleX": 4.5,
-                    "scaleY": 4
+                    "scaleY": 5.25
                 },
                 {
                     "id": "668c5c06-93c2-41e7-a89d-070f80b7103b",
@@ -96,7 +96,7 @@
                     "m_serialiseFrozen": false,
                     "name": "inst_6BB01C9E",
                     "x": 768,
-                    "y": 144,
+                    "y": 224,
                     "IsDnD": false,
                     "colour": {
                         "Value": 4294967295
@@ -120,7 +120,7 @@
                     "m_serialiseFrozen": false,
                     "name": "inst_52573829",
                     "x": 768,
-                    "y": 224,
+                    "y": 304,
                     "IsDnD": false,
                     "colour": {
                         "Value": 4294967295
