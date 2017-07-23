@@ -1,0 +1,1 @@
+instance_create_depth(512, 240, -1, obj_Traffic_Trophy)

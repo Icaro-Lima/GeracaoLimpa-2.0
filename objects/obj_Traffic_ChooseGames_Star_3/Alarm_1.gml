@@ -1,3 +1,5 @@
 start_draw = true
 
-alarm[2] = 120
+if draw_max_percent == 1 {
+	alarm[2] = 120
+}

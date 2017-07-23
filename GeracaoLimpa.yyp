@@ -463,6 +463,14 @@
             }
         },
         {
+            "Key": "991bc73b-82ed-422d-ad6c-a2a197c56c35",
+            "Value": {
+                "id": "5355d213-5db0-4717-9f38-023dfe04e8ed",
+                "resourcePath": "objects\\obj_Traffic_Trophy\\obj_Traffic_Trophy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "992876e0-fa8f-4983-a164-3386c0e7fc6c",
             "Value": {
                 "id": "030ef23d-3b24-4465-8d00-420e69980f65",
