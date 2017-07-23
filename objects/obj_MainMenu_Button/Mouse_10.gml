@@ -1,4 +1,1 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-MouseInside = true
+window_set_cursor(cr_handpoint)
