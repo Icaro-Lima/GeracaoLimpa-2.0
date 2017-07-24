@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "74efd472-d0c3-491f-94e3-847aaef23bab",
+            "Value": {
+                "id": "e9b6238e-4205-4cb9-a932-41d44f48bcd0",
+                "resourcePath": "objects\\obj_Recycling_TrashCan_RightCollision\\obj_Recycling_TrashCan_RightCollision.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7894fd98-1ab1-4b3a-830f-4f7fee29a32f",
             "Value": {
                 "id": "1680bf02-d1cd-4598-816c-9305043bc1c5",
@@ -882,7 +890,7 @@
             "Key": "d0227eab-0983-48df-9ab1-4410ffa4be36",
             "Value": {
                 "id": "06ffcf7f-7236-4ffc-ab6c-e7667f60e686",
-                "resourcePath": "objects\\obj_Recycling_TrashCan\\obj_Recycling_TrashCan.yy",
+                "resourcePath": "objects\\obj_Recycling_TrashCan_LeftCollision\\obj_Recycling_TrashCan_LeftCollision.yy",
                 "resourceType": "GMObject"
             }
         },
