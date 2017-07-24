@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "64a999ca-b9d0-4b20-a161-31d515627a89",
+            "Value": {
+                "id": "7d96baa6-ecd2-4316-9720-e60aec915586",
+                "resourcePath": "sprites\\spr_ChooseGames_Unlike_Grow\\spr_ChooseGames_Unlike_Grow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "677c7bb3-4268-4f23-903f-1ae6ce7f33f7",
             "Value": {
                 "id": "3e248e8f-d346-40d2-b99e-90c695330e2a",
@@ -780,6 +788,14 @@
                 "id": "3edb35b2-80d8-4517-815a-b5ef56d157ca",
                 "resourcePath": "objects\\obj_Credits_Alex\\obj_Credits_Alex.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f2366364-04bb-4ad5-aaba-15c981df70c1",
+            "Value": {
+                "id": "698fe167-d42d-49d5-af56-e6ed12fbaecc",
+                "resourcePath": "sprites\\spr_ChooseGames_Like_Grow\\spr_ChooseGames_Like_Grow.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
