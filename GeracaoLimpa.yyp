@@ -271,11 +271,27 @@
             }
         },
         {
+            "Key": "6605ae01-8b6a-432e-bf38-2fca32b94bc8",
+            "Value": {
+                "id": "5aaa15ab-cdc8-40ab-be6e-449922950426",
+                "resourcePath": "sprites\\spr_Recycling_ThrashCan_Paper\\spr_Recycling_ThrashCan_Paper.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "677c7bb3-4268-4f23-903f-1ae6ce7f33f7",
             "Value": {
                 "id": "3e248e8f-d346-40d2-b99e-90c695330e2a",
                 "resourcePath": "views\\677c7bb3-4268-4f23-903f-1ae6ce7f33f7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "69be2c29-f23e-4dd4-bca4-1e024d72afd1",
+            "Value": {
+                "id": "fdac9f90-a0aa-4394-b458-66097e1167bf",
+                "resourcePath": "sprites\\spr_Recycling_ThrashCan_Glass\\spr_Recycling_ThrashCan_Glass.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -364,6 +380,14 @@
                 "id": "29f9c59e-1136-45ed-a147-f5a8d796ca1e",
                 "resourcePath": "rooms\\rm_MainMenu\\rm_MainMenu.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "82fd718d-e3cf-494b-968e-0dd40b6cb6c1",
+            "Value": {
+                "id": "6c157141-bfbf-4b06-9dd4-1f245efd3816",
+                "resourcePath": "sprites\\spr_Recycling_TrashCan_Metal\\spr_Recycling_TrashCan_Metal.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -695,6 +719,14 @@
             }
         },
         {
+            "Key": "d228c978-ece7-4c5d-9cb1-39c052720309",
+            "Value": {
+                "id": "d6935c54-a2e8-483a-b91e-42640a6eebd6",
+                "resourcePath": "sprites\\spr_Recycling_ThrashCan_Plastic\\spr_Recycling_ThrashCan_Plastic.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d37e25c5-b5b6-4c61-8c97-13a99e722e33",
             "Value": {
                 "id": "0276331b-7965-4c92-a0ca-ac972b950120",
@@ -819,6 +851,14 @@
             "Value": {
                 "id": "2139499b-64b5-477d-90dd-cbdf673a95c5",
                 "resourcePath": "sprites\\spr_Star\\spr_Star.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f9e7c7a5-adbf-47cb-875c-53098dc1d337",
+            "Value": {
+                "id": "b1e75600-02e4-4c93-ac23-88d708ab23a1",
+                "resourcePath": "sprites\\spr_Recycling_ThrashCan_Organic\\spr_Recycling_ThrashCan_Organic.yy",
                 "resourceType": "GMSprite"
             }
         }
