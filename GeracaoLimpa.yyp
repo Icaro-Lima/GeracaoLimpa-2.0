@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "109915cb-feb2-4ea2-9286-895d557ef5b3",
+            "Value": {
+                "id": "780aa00c-5eee-4725-bbe6-90e40e24bab6",
+                "resourcePath": "sprites\\spr_Recycling_Objects_Bottle\\spr_Recycling_Objects_Bottle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "16793bc5-d232-4d2c-a238-f5843de2a947",
             "Value": {
                 "id": "17defb0e-c027-43ae-bf88-e30c193939a5",
@@ -140,6 +148,14 @@
                 "id": "20bed00e-0d5f-4ddb-8261-047135884233",
                 "resourcePath": "objects\\obj_ChooseGames_Unlike\\obj_ChooseGames_Unlike.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "463e0ede-de68-4733-87fb-aae9704b2393",
+            "Value": {
+                "id": "ab7fe966-cecc-4990-a132-4a7d53582ec8",
+                "resourcePath": "sprites\\spr_Recycling_Objects_Potato\\spr_Recycling_Objects_Potato.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -207,6 +223,14 @@
             }
         },
         {
+            "Key": "515c8ea3-0d3f-4285-a8a7-0d5466582407",
+            "Value": {
+                "id": "caf76d1e-d9ff-4e4d-a5d5-f0102baf8eda",
+                "resourcePath": "sprites\\spr_Recycling_Objects_Banana\\spr_Recycling_Objects_Banana.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "547ef334-abfe-4b62-aa7c-ba9b39ac29e0",
             "Value": {
                 "id": "dde2bf5b-8344-4989-9a0e-c3f75267fc45",
@@ -236,6 +260,14 @@
                 "id": "866383e5-c700-4b47-ac07-a7aec1009441",
                 "resourcePath": "objects\\obj_Traffic_ChooseGames_Star_2\\obj_Traffic_ChooseGames_Star_2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5c274ef6-42cb-4c76-841b-c1797e0fece2",
+            "Value": {
+                "id": "08997f4b-d3cb-4cbf-abed-add3bb7b2aa0",
+                "resourcePath": "sprites\\spr_Recycling_Objects_Coke\\spr_Recycling_Objects_Coke.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -303,6 +335,14 @@
             }
         },
         {
+            "Key": "6d4bdf43-f3f0-43fd-b240-0f73f4a51396",
+            "Value": {
+                "id": "705f2f72-6367-41d1-a63f-a35db25be950",
+                "resourcePath": "sprites\\spr_Recycling_Objects_GlassBottle\\spr_Recycling_Objects_GlassBottle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6db3c962-9927-4f3b-91cf-b40859542156",
             "Value": {
                 "id": "ae487eed-71ec-47f0-8801-50ac57beff79",
@@ -331,6 +371,14 @@
             "Value": {
                 "id": "d7e7c4d5-5396-494a-9d50-3b926d118c2b",
                 "resourcePath": "sprites\\spr_Traffic_ChooseGames3\\spr_Traffic_ChooseGames3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "734bd0a8-76ec-49a8-851d-9bc59899d323",
+            "Value": {
+                "id": "175ca403-45c8-4457-bb70-a2bb189e8690",
+                "resourcePath": "sprites\\spr_Recycling_Objects_Tin\\spr_Recycling_Objects_Tin.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -471,6 +519,14 @@
             }
         },
         {
+            "Key": "9046ef65-218a-4de1-8e81-120a6f84b3ef",
+            "Value": {
+                "id": "fb0e75f4-b733-4b7e-9465-b8c06f0de370",
+                "resourcePath": "sprites\\spr_Recycling_Objects_NewsPaper\\spr_Recycling_Objects_NewsPaper.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9107abe9-1042-455d-94d0-22513cc9c1a5",
             "Value": {
                 "id": "074e0d14-acaf-4c63-9194-f03af5dc9634",
@@ -527,6 +583,14 @@
             }
         },
         {
+            "Key": "996311af-d306-4bcd-bf13-2c7edab32340",
+            "Value": {
+                "id": "f6470726-06a4-4651-973e-1d3a65505e6c",
+                "resourcePath": "sprites\\spr_Recycling_Objects_Fork\\spr_Recycling_Objects_Fork.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9b610b68-9b68-446c-8102-ab779c49ab20",
             "Value": {
                 "id": "7187f433-614e-4ddb-8453-5c809d9f9784",
@@ -575,6 +639,14 @@
             }
         },
         {
+            "Key": "b024d7c6-1e63-41c3-b13a-e920fe970202",
+            "Value": {
+                "id": "587b014f-b4e9-4b7a-8135-a1f19e518963",
+                "resourcePath": "sprites\\spr_Recycling_Objects_Glass\\spr_Recycling_Objects_Glass.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b0b7c85c-da6a-4634-8bae-44edd4a09dcf",
             "Value": {
                 "id": "924b2056-8176-44c0-b95d-3add2a4d3aa0",
@@ -612,6 +684,14 @@
                 "id": "02b4f56f-925c-4cea-b7ec-3c9c016e5fc3",
                 "resourcePath": "objects\\obj_ChooseGames_LikeAndUnlineAnimation\\obj_ChooseGames_LikeAndUnlineAnimation.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b9751989-ec6a-4dff-a1e0-52b2e588b76b",
+            "Value": {
+                "id": "e420ee2a-7eb8-4a10-9c20-6deffc538067",
+                "resourcePath": "sprites\\spr_Recycling_Objects_Tomato\\spr_Recycling_Objects_Tomato.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -700,6 +780,14 @@
                 "id": "a7cf12a9-35eb-4dd0-80b9-e6a93ac9d28f",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ce401663-ef92-4c6c-8277-c309d019388b",
+            "Value": {
+                "id": "df1e9076-b931-4c1f-9f3f-035402055fc5",
+                "resourcePath": "sprites\\spr_Recycling_Objects_Egg\\spr_Recycling_Objects_Egg.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
