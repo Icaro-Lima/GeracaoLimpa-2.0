@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "074c9c08-5e3c-4aed-8078-f67b142e425e",
+            "Value": {
+                "id": "f8104b25-8789-4883-aaf4-a2c984da7571",
+                "resourcePath": "views\\074c9c08-5e3c-4aed-8078-f67b142e425e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "080ae08e-9bef-4f2e-aa4c-9ea0b5cab7b2",
             "Value": {
                 "id": "8287913b-f4de-42f5-8e53-8211795c03d8",
@@ -163,6 +171,14 @@
             "Value": {
                 "id": "59073c62-a43e-42b9-a5f1-84bd1d207e1a",
                 "resourcePath": "views\\46610a28-5131-43b7-b569-f640386d6510.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "471b44e3-9cff-4216-a392-8d23de8e1416",
+            "Value": {
+                "id": "51ee319a-1056-495a-8f74-25d4141fb3c8",
+                "resourcePath": "views\\471b44e3-9cff-4216-a392-8d23de8e1416.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -527,6 +543,14 @@
             }
         },
         {
+            "Key": "905b8efc-9077-48dc-937b-eba37c5b6123",
+            "Value": {
+                "id": "b0d8b5a1-aa79-4c26-a380-af980471e517",
+                "resourcePath": "views\\905b8efc-9077-48dc-937b-eba37c5b6123.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "9107abe9-1042-455d-94d0-22513cc9c1a5",
             "Value": {
                 "id": "074e0d14-acaf-4c63-9194-f03af5dc9634",
@@ -668,6 +692,14 @@
                 "id": "ee7216a9-9095-4d3c-bf03-14a3b98cdc66",
                 "resourcePath": "objects\\obj_MainMenu_Games\\obj_MainMenu_Games.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b1232628-b5af-4310-b50b-eca979fce030",
+            "Value": {
+                "id": "c78f5846-b554-44cd-924e-f8c0b325fbfb",
+                "resourcePath": "views\\b1232628-b5af-4310-b50b-eca979fce030.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -823,6 +855,14 @@
             }
         },
         {
+            "Key": "dc7fa362-aadf-45fe-8bb1-cb59a17cbe05",
+            "Value": {
+                "id": "6b6bb821-7a6c-4c7f-b181-ba00f5dd9bc9",
+                "resourcePath": "views\\dc7fa362-aadf-45fe-8bb1-cb59a17cbe05.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e0cd2d09-5cf6-4d1f-a341-7017f6dd9807",
             "Value": {
                 "id": "3ebe0027-7bde-4483-82a2-f33ded9950ab",
@@ -948,6 +988,14 @@
                 "id": "b1e75600-02e4-4c93-ac23-88d708ab23a1",
                 "resourcePath": "sprites\\spr_Recycling_ThrashCan_Organic\\spr_Recycling_ThrashCan_Organic.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fa309656-eaa4-4189-9c7c-a2ab017cf2ac",
+            "Value": {
+                "id": "aae15f91-1852-4683-aea0-2310eb7b5a91",
+                "resourcePath": "views\\fa309656-eaa4-4189-9c7c-a2ab017cf2ac.yy",
+                "resourceType": "GMFolder"
             }
         }
     ],
