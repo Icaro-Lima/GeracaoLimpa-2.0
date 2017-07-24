@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "1de5d912-1ebf-4109-b163-e6a5882df039",
+            "Value": {
+                "id": "a042e161-81e2-4f36-b2a8-2e920973e054",
+                "resourcePath": "sprites\\spr_Recycling_Caps_Glass\\spr_Recycling_Caps_Glass.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1dfe7c10-f951-4e30-b4a0-72d319281832",
             "Value": {
                 "id": "2d26edbd-730c-40a0-a2dd-cac52168300d",
@@ -140,6 +148,14 @@
                 "id": "5fe91fac-ef98-431a-b3b9-d3b09abd4485",
                 "resourcePath": "views\\250ff0de-8591-48e9-97b9-333314255d1e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "31f991d7-b191-4f82-a651-f79626695815",
+            "Value": {
+                "id": "0aceb556-4cc8-443f-8ab7-68a21264f3fb",
+                "resourcePath": "sprites\\spr_Recycling_Caps_Paper\\spr_Recycling_Caps_Paper.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -351,6 +367,14 @@
             }
         },
         {
+            "Key": "6d2ae6b7-cad3-48e4-bf34-85ba45cab8ca",
+            "Value": {
+                "id": "87a082bb-eb74-4cb5-be0a-fa8d41b10506",
+                "resourcePath": "views\\6d2ae6b7-cad3-48e4-bf34-85ba45cab8ca.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "6d4bdf43-f3f0-43fd-b240-0f73f4a51396",
             "Value": {
                 "id": "705f2f72-6367-41d1-a63f-a35db25be950",
@@ -371,6 +395,14 @@
             "Value": {
                 "id": "f4bbd8d4-46dc-4621-9683-8dd99a22aff2",
                 "resourcePath": "sprites\\spr_Undo\\spr_Undo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6fe9fb6a-83cf-4c98-8531-4ca4ba22bab0",
+            "Value": {
+                "id": "b1c0b130-3c91-4377-a292-3c0325b8d071",
+                "resourcePath": "sprites\\spr_Recycling_Caps_Metal\\spr_Recycling_Caps_Metal.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -623,6 +655,14 @@
             }
         },
         {
+            "Key": "a4cc1a97-f582-4aec-a8ba-f5846b4ff345",
+            "Value": {
+                "id": "9ace3b22-44c2-4cc5-9f74-eb5ffec95043",
+                "resourcePath": "sprites\\spr_Recycling_Caps_Organic\\spr_Recycling_Caps_Organic.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a79d08c0-a8ff-4f31-812f-a9b2a40af862",
             "Value": {
                 "id": "8474b990-3d6c-4a41-9d01-42548ef1660a",
@@ -791,6 +831,14 @@
             }
         },
         {
+            "Key": "c8ed8216-4e3b-40c5-a7de-4058fb09be42",
+            "Value": {
+                "id": "52d6b5ea-2cbe-4a30-a15e-781f3699ce00",
+                "resourcePath": "sprites\\spr_Recycling_Caps_Plastic\\spr_Recycling_Caps_Plastic.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ca067da8-9d1b-4e34-b080-1718504ba59f",
             "Value": {
                 "id": "1cf09903-d332-416f-8028-77e6641e23d8",
@@ -828,6 +876,14 @@
                 "id": "24b41a26-1761-466e-a22b-d8598d783c2f",
                 "resourcePath": "sprites\\spr_Credits_Icaro\\spr_Credits_Icaro.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d0227eab-0983-48df-9ab1-4410ffa4be36",
+            "Value": {
+                "id": "06ffcf7f-7236-4ffc-ab6c-e7667f60e686",
+                "resourcePath": "objects\\obj_Recycling_TrashCan\\obj_Recycling_TrashCan.yy",
+                "resourceType": "GMObject"
             }
         },
         {
