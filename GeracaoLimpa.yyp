@@ -751,6 +751,14 @@
             }
         },
         {
+            "Key": "a2351a85-d409-4496-9f32-545ae8175674",
+            "Value": {
+                "id": "35e305bb-77a7-4dc2-9e32-6da8dfa11a3d",
+                "resourcePath": "objects\\obj_Recycling_Glass_Object\\obj_Recycling_Glass_Object.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a4cc1a97-f582-4aec-a8ba-f5846b4ff345",
             "Value": {
                 "id": "9ace3b22-44c2-4cc5-9f74-eb5ffec95043",
@@ -991,6 +999,14 @@
             }
         },
         {
+            "Key": "cc8f4b91-e496-4eb4-95f3-6f2bee4bf077",
+            "Value": {
+                "id": "508a6c31-5ee8-4b8f-a3a1-34907c3dbe11",
+                "resourcePath": "objects\\obj_Recycling_Glass_Glass\\obj_Recycling_Glass_Glass.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "a7cf12a9-35eb-4dd0-80b9-e6a93ac9d28f",
@@ -1155,6 +1171,14 @@
             "Value": {
                 "id": "3edb35b2-80d8-4517-815a-b5ef56d157ca",
                 "resourcePath": "objects\\obj_Credits_Alex\\obj_Credits_Alex.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f1d31fba-d187-48de-b7e1-a1f488b3f90e",
+            "Value": {
+                "id": "85a50ffe-2bb7-4b0e-845c-3454f064aa0f",
+                "resourcePath": "objects\\obj_Recycling_Glass_GlassBottle\\obj_Recycling_Glass_GlassBottle.yy",
                 "resourceType": "GMObject"
             }
         },
