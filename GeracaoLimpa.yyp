@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "10703954-23af-4a8a-9b0a-e4e0c93f9cd7",
+            "Value": {
+                "id": "49a31dd4-e436-494a-aed1-5895f97cd8b4",
+                "resourcePath": "objects\\obj_Recycling_Paper_Object\\obj_Recycling_Paper_Object.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "109915cb-feb2-4ea2-9286-895d557ef5b3",
             "Value": {
                 "id": "780aa00c-5eee-4725-bbe6-90e40e24bab6",
@@ -355,6 +363,14 @@
             "Value": {
                 "id": "698c936b-1e32-4de8-81a7-8dac028baf1e",
                 "resourcePath": "objects\\obj_Credits_People\\obj_Credits_People.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "55efc229-4068-4252-97c8-15b245a2c4a6",
+            "Value": {
+                "id": "e46f1744-f422-43a0-bad4-cf63ce33b259",
+                "resourcePath": "objects\\obj_Recycling_Trash\\obj_Recycling_Trash.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -716,6 +732,14 @@
                 "id": "29e30a11-0733-4033-904f-1fea5c07fef1",
                 "resourcePath": "fonts\\fnt_Credits_Little\\fnt_Credits_Little.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "958fac0b-7180-4df5-88a0-bfb5843f4055",
+            "Value": {
+                "id": "d2f0a00b-a883-488e-b586-11538190e0cf",
+                "resourcePath": "objects\\obj_Recycling_Paper_Newspaper\\obj_Recycling_Paper_Newspaper.yy",
+                "resourceType": "GMObject"
             }
         },
         {

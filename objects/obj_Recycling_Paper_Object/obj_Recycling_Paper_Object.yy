@@ -1,18 +1,18 @@
 {
-    "id": "a2351a85-d409-4496-9f32-545ae8175674",
+    "id": "10703954-23af-4a8a-9b0a-e4e0c93f9cd7",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Recycling_Glass_Object",
+    "name": "obj_Recycling_Paper_Object",
     "eventList": [
         {
-            "id": "d4d84149-4631-4c10-b0c9-84aa9ad7ac26",
+            "id": "5a269345-243d-4a7e-9d48-e859c27894ab",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "a2351a85-d409-4496-9f32-545ae8175674"
+            "m_owner": "10703954-23af-4a8a-9b0a-e4e0c93f9cd7"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
