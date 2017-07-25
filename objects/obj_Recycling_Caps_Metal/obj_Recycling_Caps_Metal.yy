@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_Recycling_Caps_Metal",
     "eventList": [
-        
+        {
+            "id": "1a391a7c-6a30-47b4-84fb-81d71e93f70b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "51145fa3-66e5-4d4a-ba6c-4488c72c3121",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "36ef9bbc-d104-4fb3-8d4e-c0cf5e40430c"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",

@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "51145fa3-66e5-4d4a-ba6c-4488c72c3121",
+            "Value": {
+                "id": "b3585bfb-4371-47b9-bb5e-339372d08bbe",
+                "resourcePath": "objects\\obj_Recycling_Organic_Object\\obj_Recycling_Organic_Object.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "515c8ea3-0d3f-4285-a8a7-0d5466582407",
             "Value": {
                 "id": "caf76d1e-d9ff-4e4d-a5d5-f0102baf8eda",
@@ -567,6 +575,14 @@
             }
         },
         {
+            "Key": "83898ceb-7af6-4c97-b27e-597fbb7560b4",
+            "Value": {
+                "id": "0d411fb6-f2cc-4b9a-a236-7b390f6fca85",
+                "resourcePath": "objects\\obj_Recycling_Organic_Tomato\\obj_Recycling_Organic_Tomato.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
             "Value": {
                 "id": "7d8e13e0-4d54-4234-a1a1-bed75d629de4",
@@ -796,6 +812,14 @@
                 "id": "22704bd2-558e-42d0-9fcb-ae6f7ceb41c8",
                 "resourcePath": "rooms\\rm_Recycling_0\\rm_Recycling_0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "afe38688-cb68-4768-9e13-6c1c198c311d",
+            "Value": {
+                "id": "a6eb5d1a-355a-47a2-ae10-1b75253e1423",
+                "resourcePath": "objects\\obj_Recycling_Organic_Banana\\obj_Recycling_Organic_Banana.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1095,6 +1119,14 @@
             }
         },
         {
+            "Key": "eb7be855-d6d8-4203-9524-55e85892a82b",
+            "Value": {
+                "id": "55edbbdc-9157-446b-8cfe-8c3c2aa5d393",
+                "resourcePath": "objects\\obj_Recycling_Organic_Egg\\obj_Recycling_Organic_Egg.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "eb992808-318b-44f4-8c74-c827dd755e74",
             "Value": {
                 "id": "a87f3c73-e7d2-4d0c-8ffa-522ad5b1906a",
@@ -1140,6 +1172,14 @@
                 "id": "bd4ccf12-e254-411b-a5b8-2cd3126b462a",
                 "resourcePath": "sprites\\spr_ChooseGames_Unlike\\spr_ChooseGames_Unlike.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f46ab61d-94e0-424b-adb0-90085fe0099f",
+            "Value": {
+                "id": "6dceb31e-879c-48d5-bf77-f64de21522f5",
+                "resourcePath": "objects\\obj_Recycling_Organic_Potato\\obj_Recycling_Organic_Potato.yy",
+                "resourceType": "GMObject"
             }
         },
         {
