@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "0022b86f-322b-4bce-adf9-5cd1a7d56bf3",
+            "Value": {
+                "id": "129df88b-8485-4391-8ef3-1c34c455b25e",
+                "resourcePath": "objects\\obj_Recycling_Caps_Organic\\obj_Recycling_Caps_Organic.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0182d76d-3b86-4a5f-98c0-b15e33d389ed",
+            "Value": {
+                "id": "5e5066d5-1418-4a90-a24c-b869b76efc92",
+                "resourcePath": "objects\\obj_Recycling_Caps_Glass\\obj_Recycling_Caps_Glass.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0375b95a-1447-4afd-9d13-ca10145ce785",
             "Value": {
                 "id": "735b216c-c963-4de3-a0e3-087afe6902d9",
@@ -103,6 +119,14 @@
             }
         },
         {
+            "Key": "12c953aa-b7a2-48f9-a0e3-0b181b5b6dc5",
+            "Value": {
+                "id": "52a71219-9a32-4636-be57-8ddef9283757",
+                "resourcePath": "objects\\obj_Recycling_Metal_Fork\\obj_Recycling_Metal_Fork.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "16793bc5-d232-4d2c-a238-f5843de2a947",
             "Value": {
                 "id": "17defb0e-c027-43ae-bf88-e30c193939a5",
@@ -115,6 +139,14 @@
             "Value": {
                 "id": "9f5001d5-2361-43d6-afa8-c589735ae6f5",
                 "resourcePath": "objects\\obj_Traffic_ChooseGames_Star_1\\obj_Traffic_ChooseGames_Star_1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1932c651-d6cd-4f1b-aa6c-7a9b6ce078c4",
+            "Value": {
+                "id": "4975da41-9946-4852-a2a6-e87ccc67df0a",
+                "resourcePath": "objects\\obj_Recycling_TrashCan_Plastic\\obj_Recycling_TrashCan_Plastic.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -151,6 +183,14 @@
             }
         },
         {
+            "Key": "2b759719-b2aa-40c7-ad65-d4a044eb5021",
+            "Value": {
+                "id": "fb49c0d1-fea3-4c21-b8b7-8b269cefae8a",
+                "resourcePath": "objects\\obj_Recycling_Caps_Paper\\obj_Recycling_Caps_Paper.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "31f991d7-b191-4f82-a651-f79626695815",
             "Value": {
                 "id": "0aceb556-4cc8-443f-8ab7-68a21264f3fb",
@@ -171,6 +211,14 @@
             "Value": {
                 "id": "20bed00e-0d5f-4ddb-8261-047135884233",
                 "resourcePath": "objects\\obj_ChooseGames_Unlike\\obj_ChooseGames_Unlike.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "36ef9bbc-d104-4fb3-8d4e-c0cf5e40430c",
+            "Value": {
+                "id": "8301dd5c-c095-45b8-9830-8288dfa69255",
+                "resourcePath": "objects\\obj_Recycling_Caps_Metal\\obj_Recycling_Caps_Metal.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -219,6 +267,14 @@
             "Value": {
                 "id": "19c9ae6b-bfac-43aa-8903-4f3a6900c2fc",
                 "resourcePath": "objects\\obj_Credits_Flavio\\obj_Credits_Flavio.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4ba86aea-d38c-41be-9331-8c9e9bcbdd96",
+            "Value": {
+                "id": "1f7599f3-0b63-4fd0-97ad-420ea27be10a",
+                "resourcePath": "objects\\obj_Recycling_Metal_Coke\\obj_Recycling_Metal_Coke.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -295,6 +351,14 @@
             }
         },
         {
+            "Key": "5c1eebc4-a16b-4aac-b3b3-937b70c92ce7",
+            "Value": {
+                "id": "9216f5aa-bbb5-4b7b-88b4-0dccdb263681",
+                "resourcePath": "objects\\obj_Recycling_Metal_Object\\obj_Recycling_Metal_Object.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5c274ef6-42cb-4c76-841b-c1797e0fece2",
             "Value": {
                 "id": "08997f4b-d3cb-4cbf-abed-add3bb7b2aa0",
@@ -356,6 +420,14 @@
                 "id": "fdac9f90-a0aa-4394-b458-66097e1167bf",
                 "resourcePath": "sprites\\spr_Recycling_ThrashCan_Glass\\spr_Recycling_ThrashCan_Glass.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6ad2fc21-391e-486b-8bd9-20485601cd53",
+            "Value": {
+                "id": "df200d2f-0e41-4b2c-90a4-66e3b48eb375",
+                "resourcePath": "objects\\obj_Recycling_TrashCan_Metal\\obj_Recycling_TrashCan_Metal.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -511,6 +583,14 @@
             }
         },
         {
+            "Key": "8ad91e02-7a66-4e9e-9a28-061ac6de989d",
+            "Value": {
+                "id": "7a297279-00fd-432d-a388-9e4c335d01db",
+                "resourcePath": "objects\\obj_Recycling_Collision\\obj_Recycling_Collision.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8b6708ec-ab54-4c50-98b3-e0a6d06afbd1",
             "Value": {
                 "id": "58d41253-095b-430a-9d4c-68e1bfb9631a",
@@ -655,14 +735,6 @@
             }
         },
         {
-            "Key": "9ffcaebb-0a7e-4f21-9b62-30e0c6deaacd",
-            "Value": {
-                "id": "81ef15d4-9bf4-4e2a-ac6a-6ec1d13f5867",
-                "resourcePath": "objects\\obj_Recycling_Caps_Collision\\obj_Recycling_Caps_Collision.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "a4cc1a97-f582-4aec-a8ba-f5846b4ff345",
             "Value": {
                 "id": "9ace3b22-44c2-4cc5-9f74-eb5ffec95043",
@@ -676,6 +748,14 @@
                 "id": "8474b990-3d6c-4a41-9d01-42548ef1660a",
                 "resourcePath": "fonts\\fnt_Congratulations\\fnt_Congratulations.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "a7f19e8e-0c38-4558-8bd9-2e42da891f67",
+            "Value": {
+                "id": "ff1b2632-48ef-4503-a2ad-4a11a54873ef",
+                "resourcePath": "objects\\obj_Recycling_TrashCan_Organic\\obj_Recycling_TrashCan_Organic.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -714,7 +794,7 @@
             "Key": "af030617-5afb-4aa3-a0fe-09f46de876ac",
             "Value": {
                 "id": "22704bd2-558e-42d0-9fcb-ae6f7ceb41c8",
-                "resourcePath": "rooms\\room10\\room10.yy",
+                "resourcePath": "rooms\\rm_Recycling_0\\rm_Recycling_0.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -799,6 +879,22 @@
             }
         },
         {
+            "Key": "bfc0a939-4ec0-4551-b4ff-45487b8ceb07",
+            "Value": {
+                "id": "55a0da21-f3f8-4216-9e50-ac45e247e2e1",
+                "resourcePath": "objects\\obj_Recycling_Caps_Plastic\\obj_Recycling_Caps_Plastic.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c092af98-e6a0-4470-b8ac-6f3401cd0a3c",
+            "Value": {
+                "id": "ae91cbd2-25f9-4e31-800d-fc30a05dab63",
+                "resourcePath": "objects\\obj_Recycling_Creator\\obj_Recycling_Creator.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c27aa4c6-d094-4e6a-a87e-0b61aa7b21e0",
             "Value": {
                 "id": "f5c51970-e076-459b-99a1-0d73c59f6a90",
@@ -879,6 +975,14 @@
             }
         },
         {
+            "Key": "cd97c52b-e03d-45d3-9335-12a2079412d5",
+            "Value": {
+                "id": "a199e614-c249-4d73-9067-1b78406e7c4a",
+                "resourcePath": "objects\\obj_Recycling_TrashCan_Glass\\obj_Recycling_TrashCan_Glass.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ce401663-ef92-4c6c-8277-c309d019388b",
             "Value": {
                 "id": "df1e9076-b931-4c1f-9f3f-035402055fc5",
@@ -892,14 +996,6 @@
                 "id": "24b41a26-1761-466e-a22b-d8598d783c2f",
                 "resourcePath": "sprites\\spr_Credits_Icaro\\spr_Credits_Icaro.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "d0227eab-0983-48df-9ab1-4410ffa4be36",
-            "Value": {
-                "id": "06ffcf7f-7236-4ffc-ab6c-e7667f60e686",
-                "resourcePath": "objects\\obj_Recycling_TrashCan_Collision\\obj_Recycling_TrashCan_Collision.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -1015,6 +1111,14 @@
             }
         },
         {
+            "Key": "ed3ccb0b-5945-43df-96de-ab8ba6679625",
+            "Value": {
+                "id": "62eefa85-6fcd-47b2-8ec5-5c845f448741",
+                "resourcePath": "objects\\obj_Recycling_TrashCan_Paper\\obj_Recycling_TrashCan_Paper.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ef209267-7d3e-4400-9bd4-3f984173c3f4",
             "Value": {
                 "id": "3edb35b2-80d8-4517-815a-b5ef56d157ca",
@@ -1068,6 +1172,14 @@
                 "id": "aae15f91-1852-4683-aea0-2310eb7b5a91",
                 "resourcePath": "views\\fa309656-eaa4-4189-9c7c-a2ab017cf2ac.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fce122a1-936e-4e55-a5b3-45000acedcf2",
+            "Value": {
+                "id": "872bec28-c2b2-4eab-a019-5545d9e25b26",
+                "resourcePath": "objects\\obj_Recycling_Metal_Tin\\obj_Recycling_Metal_Tin.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
