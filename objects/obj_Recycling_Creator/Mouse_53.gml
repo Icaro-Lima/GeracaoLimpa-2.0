@@ -1,1 +1,0 @@
-instance_create_layer(mouse_x, mouse_y, "trashs", choose(obj_Recycling_Metal_Object, obj_Recycling_Organic_Object, obj_Recycling_Glass_Object, obj_Recycling_Plastic_Object))

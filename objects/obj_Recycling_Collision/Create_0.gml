@@ -1,3 +1,5 @@
+instance_create_depth(x + 32, y + 32, 0, obj_Recycling_Punctuator)
+
 fix = physics_fixture_create()
 physics_fixture_set_polygon_shape(fix)
 physics_fixture_set_density(fix, 0)

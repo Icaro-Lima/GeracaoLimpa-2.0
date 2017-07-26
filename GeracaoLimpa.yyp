@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "08f92513-2b1f-4f80-abcf-40c4b29cb74e",
+            "Value": {
+                "id": "8722cc63-05e9-4106-96be-703f1a293839",
+                "resourcePath": "sprites\\spr_Recycling_Punctuator\\spr_Recycling_Punctuator.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0cc972b8-00a7-41c5-b113-fe031ffa9ba1",
             "Value": {
                 "id": "37dda04b-8e9e-4bfd-9a3b-9eb0ddd1c7c8",
@@ -319,6 +327,14 @@
             }
         },
         {
+            "Key": "4fca6bb2-eccb-40e8-92ac-fd815afe82a7",
+            "Value": {
+                "id": "bae151b4-54f1-49da-9fe9-0c8381ca4d0f",
+                "resourcePath": "sprites\\spr_Recycling_Correct\\spr_Recycling_Correct.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "50b8c496-a350-4b89-ab73-faf94fb8c9ec",
             "Value": {
                 "id": "b666ef77-34ed-4bc8-9538-305f2225ea95",
@@ -444,6 +460,14 @@
                 "id": "3e248e8f-d346-40d2-b99e-90c695330e2a",
                 "resourcePath": "views\\677c7bb3-4268-4f23-903f-1ae6ce7f33f7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "687f4057-4872-4f1b-81fc-c0f7e014db6e",
+            "Value": {
+                "id": "b2639855-e8dc-4a0b-907d-0df8d2a7bf6d",
+                "resourcePath": "objects\\obj_Recycling_Creator_Geral\\obj_Recycling_Creator_Geral.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -727,6 +751,14 @@
             }
         },
         {
+            "Key": "94053418-c953-4157-9d91-563683a1860c",
+            "Value": {
+                "id": "806d00e8-5b39-4d5f-ab64-adb64859a949",
+                "resourcePath": "objects\\obj_Recycling_Punctuator\\obj_Recycling_Punctuator.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "953aa598-e27a-4235-9772-64745c22fad1",
             "Value": {
                 "id": "29e30a11-0733-4033-904f-1fea5c07fef1",
@@ -780,6 +812,14 @@
                 "id": "7187f433-614e-4ddb-8453-5c809d9f9784",
                 "resourcePath": "sprites\\spr_Traffic_ChooseGames2\\spr_Traffic_ChooseGames2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9ef764d5-3130-4a79-a06f-d11bb89c994a",
+            "Value": {
+                "id": "67901e66-f00d-4698-b369-4a9204e2b233",
+                "resourcePath": "objects\\obj_Recycling_Correct\\obj_Recycling_Correct.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -919,6 +959,14 @@
             }
         },
         {
+            "Key": "b8393afb-2f63-463e-82bf-709fa02d3d13",
+            "Value": {
+                "id": "f44d6aa4-a536-47d8-a723-691389e20cfe",
+                "resourcePath": "objects\\obj_Recycling_Impulse\\obj_Recycling_Impulse.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b9751989-ec6a-4dff-a1e0-52b2e588b76b",
             "Value": {
                 "id": "e420ee2a-7eb8-4a10-9c20-6deffc538067",
@@ -954,7 +1002,7 @@
             "Key": "c092af98-e6a0-4470-b8ac-6f3401cd0a3c",
             "Value": {
                 "id": "ae91cbd2-25f9-4e31-800d-fc30a05dab63",
-                "resourcePath": "objects\\obj_Recycling_Creator\\obj_Recycling_Creator.yy",
+                "resourcePath": "objects\\obj_Recycling_Creator_0\\obj_Recycling_Creator_0.yy",
                 "resourceType": "GMObject"
             }
         },
