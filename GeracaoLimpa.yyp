@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "2eba5c24-ed4b-4f45-a998-18ed521004d2",
+            "Value": {
+                "id": "9216017a-9fd4-449b-a7bf-f05f750038ac",
+                "resourcePath": "rooms\\rm_Recycling_1\\rm_Recycling_1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "31f991d7-b191-4f82-a651-f79626695815",
             "Value": {
                 "id": "0aceb556-4cc8-443f-8ab7-68a21264f3fb",
@@ -735,6 +743,14 @@
             }
         },
         {
+            "Key": "91d0a287-cc18-4b48-a5aa-aa434451619b",
+            "Value": {
+                "id": "812a44a8-dbe4-466e-b21f-df78079510b5",
+                "resourcePath": "rooms\\rm_Recycling_2\\rm_Recycling_2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "921b05eb-5d98-4f48-a548-ed2c2f6a868f",
             "Value": {
                 "id": "376877cd-2951-49b4-aa03-565a82831467",
@@ -955,14 +971,6 @@
             "Value": {
                 "id": "02b4f56f-925c-4cea-b7ec-3c9c016e5fc3",
                 "resourcePath": "objects\\obj_ChooseGames_LikeAndUnlineAnimation\\obj_ChooseGames_LikeAndUnlineAnimation.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "b8393afb-2f63-463e-82bf-709fa02d3d13",
-            "Value": {
-                "id": "f44d6aa4-a536-47d8-a723-691389e20cfe",
-                "resourcePath": "objects\\obj_Recycling_Impulse\\obj_Recycling_Impulse.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1199,6 +1207,14 @@
             }
         },
         {
+            "Key": "e4bb8f45-f5c1-4caf-8723-0ee6be61deec",
+            "Value": {
+                "id": "5a69e270-b832-4734-b391-3cb917bde3c0",
+                "resourcePath": "objects\\obj_Recycling_Creator_2\\obj_Recycling_Creator_2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e6871f52-d923-4e19-a19a-314e68a1ed5b",
             "Value": {
                 "id": "af6c8fd9-9862-4fe6-8a2a-6f659e9b943e",
@@ -1331,6 +1347,14 @@
             "Value": {
                 "id": "872bec28-c2b2-4eab-a019-5545d9e25b26",
                 "resourcePath": "objects\\obj_Recycling_Metal_Tin\\obj_Recycling_Metal_Tin.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "feb0ff8d-383c-4923-ac2f-d23911758c1f",
+            "Value": {
+                "id": "48ed77f6-e9e8-4953-950a-16407968ca8f",
+                "resourcePath": "objects\\obj_Recycling_Creator_1\\obj_Recycling_Creator_1.yy",
                 "resourceType": "GMObject"
             }
         }
