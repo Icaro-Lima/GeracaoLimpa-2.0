@@ -1,18 +1,12 @@
 event_inherited()
 
 ini_open("save.ini")
-last = ini_read_real("Recycling", "last_room", -1)
-
-if last != -1 {
-	global.recycling_points = ini_read_real("Recycling", "last_points", 0)
+if ini_read_real("Recycling", "last_room", -1) != -1 {
+	instance_deactivate_object(obj_Games)
+	instance_create_layer(room_width / 2 - 256 / 2 + 48, room_height / 2 - 176 / 2 + 48, "tray", obj_Games_Replay_Resume_Tray)
 	ini_close()
-
-	switch (last) {
-		case 1: room_goto(rm_Recycling_1); break
-		case 2: room_goto(rm_Recycling_2); break
-		default: room_goto(rm_Recycling_0)
-	}
 } else {
 	ini_close()
+	
 	room_goto(rm_Recycling_0)
 }

@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "08ee7de2-66ba-4905-bb2b-993dc43e1b1d",
+            "Value": {
+                "id": "f19bd031-fd96-4211-b743-f0fee0d6a0c7",
+                "resourcePath": "objects\\obj_Games_Replay_Resume_Buttons\\obj_Games_Replay_Resume_Buttons.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "08f92513-2b1f-4f80-abcf-40c4b29cb74e",
             "Value": {
                 "id": "8722cc63-05e9-4106-96be-703f1a293839",
@@ -122,7 +130,7 @@
             "Key": "10210c1b-a0d9-4ad2-a78c-eac77d6e53cd",
             "Value": {
                 "id": "f03f8b8e-2096-4cd5-8d6d-8d14a16ea7b8",
-                "resourcePath": "sprites\\spr_MainMenu_Tray\\spr_MainMenu_Tray.yy",
+                "resourcePath": "sprites\\spr_BasicTray\\spr_BasicTray.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -351,6 +359,14 @@
             }
         },
         {
+            "Key": "50d4ad42-b2bb-488e-9ab5-5c3aeeabeb6f",
+            "Value": {
+                "id": "c24e735b-3d54-4dd1-8e9d-28eb6395a03f",
+                "resourcePath": "sprites\\spr_Games_Resume\\spr_Games_Resume.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "51145fa3-66e5-4d4a-ba6c-4488c72c3121",
             "Value": {
                 "id": "b3585bfb-4371-47b9-bb5e-339372d08bbe",
@@ -403,6 +419,14 @@
             "Value": {
                 "id": "866383e5-c700-4b47-ac07-a7aec1009441",
                 "resourcePath": "objects\\obj_Traffic_ChooseGames_Star_2\\obj_Traffic_ChooseGames_Star_2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5bbb5dca-5c46-45e4-ba87-61800498946c",
+            "Value": {
+                "id": "47dbbd49-c7cb-4c43-9ab6-909f094b851e",
+                "resourcePath": "objects\\obj_Games_Replay_Resume_Tray\\obj_Games_Replay_Resume_Tray.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -460,6 +484,14 @@
                 "id": "5aaa15ab-cdc8-40ab-be6e-449922950426",
                 "resourcePath": "sprites\\spr_Recycling_ThrashCan_Paper\\spr_Recycling_ThrashCan_Paper.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "66c0860d-5ce4-4ee9-b874-70a5ab661511",
+            "Value": {
+                "id": "39ee00d2-d340-478d-9c03-c7cda77d8cf3",
+                "resourcePath": "objects\\obj_Games_Replay_Button\\obj_Games_Replay_Button.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -531,6 +563,14 @@
             "Value": {
                 "id": "f4bbd8d4-46dc-4621-9683-8dd99a22aff2",
                 "resourcePath": "sprites\\spr_Undo\\spr_Undo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6e9b634a-c763-4870-8dca-bbe25ca54cad",
+            "Value": {
+                "id": "457616bc-0976-4266-b701-edd7f0a218ce",
+                "resourcePath": "sprites\\spr_Games_Replay\\spr_Games_Replay.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -831,6 +871,14 @@
             }
         },
         {
+            "Key": "9e6b7331-f54b-4d90-b0b0-2b866a399466",
+            "Value": {
+                "id": "9d11ae40-df77-4273-845c-98e84b46ae88",
+                "resourcePath": "sprites\\spr_Games_Replay_Resume\\spr_Games_Replay_Resume.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9ef764d5-3130-4a79-a06f-d11bb89c994a",
             "Value": {
                 "id": "67901e66-f00d-4698-b369-4a9204e2b233",
@@ -860,6 +908,14 @@
                 "id": "8474b990-3d6c-4a41-9d01-42548ef1660a",
                 "resourcePath": "fonts\\fnt_Congratulations\\fnt_Congratulations.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "a7cd6208-b171-4e2f-979e-33042084f8dc",
+            "Value": {
+                "id": "c510a137-a83d-4595-aaf1-7f82644fb173",
+                "resourcePath": "tilesets\\ts_BasicTray\\ts_BasicTray.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -959,6 +1015,14 @@
             }
         },
         {
+            "Key": "b1740dfa-17da-43c7-b85a-2c57ee142d2c",
+            "Value": {
+                "id": "7cdaaaae-b62c-4d4c-b9bb-d5df0bbed9c9",
+                "resourcePath": "objects\\obj_Games_Resume_Button\\obj_Games_Resume_Button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b212ae64-1eb1-450c-b8ad-7de0c29cf869",
             "Value": {
                 "id": "9657e33f-a199-4939-bf06-3fe84bc3cdde",
@@ -1044,14 +1108,6 @@
                 "id": "8d9dce1a-f38e-4338-8f53-a0b87945b81f",
                 "resourcePath": "sprites\\spr_Refresh\\spr_Refresh.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "c3dc5cac-25d3-4801-9439-1c942dad5482",
-            "Value": {
-                "id": "21146935-02f4-4e6b-8216-c7e24ce1d6b8",
-                "resourcePath": "objects\\obj_MainMenu_Tray\\obj_MainMenu_Tray.yy",
-                "resourceType": "GMObject"
             }
         },
         {
