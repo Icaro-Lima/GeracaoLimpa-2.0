@@ -1,3 +1,3 @@
 event_inherited()
 
-instance_create_layer(x, y - 18, "trashCaps", obj_Recycling_Caps_Glass)
+instance_create_layer(x, y - 28, "trashCaps", obj_Recycling_Caps_Glass)
