@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "1bb7d96f-7d39-47d7-885d-8687bf4af765",
+            "Value": {
+                "id": "9e599cf6-4199-4c48-9919-6703d771418c",
+                "resourcePath": "objects\\obj_Recycling_Star_2\\obj_Recycling_Star_2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1de5d912-1ebf-4109-b163-e6a5882df039",
             "Value": {
                 "id": "a042e161-81e2-4f36-b2a8-2e920973e054",
@@ -1555,6 +1563,14 @@
             "Value": {
                 "id": "872bec28-c2b2-4eab-a019-5545d9e25b26",
                 "resourcePath": "objects\\obj_Recycling_Metal_Tin\\obj_Recycling_Metal_Tin.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fe35e5ec-3370-4cfb-ae5f-501fb7cc2ad8",
+            "Value": {
+                "id": "2b663e1b-4804-4a8b-b9d1-e00e68a6ae3d",
+                "resourcePath": "objects\\obj_Recycling_Star_1\\obj_Recycling_Star_1.yy",
                 "resourceType": "GMObject"
             }
         },

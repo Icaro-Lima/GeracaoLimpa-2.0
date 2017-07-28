@@ -1,1 +1,1 @@
-path_start(path_Recycling_Star_2, 4, path_action_stop, false)
+alarm[0] = 180
