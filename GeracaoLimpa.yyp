@@ -207,11 +207,27 @@
             }
         },
         {
+            "Key": "21bdb1a6-b917-477d-a8c2-90751d4d8e5c",
+            "Value": {
+                "id": "909ffe9a-9d2b-428e-805f-a06f08b6fc19",
+                "resourcePath": "rooms\\rm_Recycling_4\\rm_Recycling_4.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "250ff0de-8591-48e9-97b9-333314255d1e",
             "Value": {
                 "id": "5fe91fac-ef98-431a-b3b9-d3b09abd4485",
                 "resourcePath": "views\\250ff0de-8591-48e9-97b9-333314255d1e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2925e653-5325-449e-ba00-6a08fd57276a",
+            "Value": {
+                "id": "46288e65-1baf-49ca-ab9f-9f3e40a9bee3",
+                "resourcePath": "sprites\\spr_GarbageTruck\\spr_GarbageTruck.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -263,6 +279,14 @@
             }
         },
         {
+            "Key": "38996a70-e736-47a6-84a8-5f9fd3ac353b",
+            "Value": {
+                "id": "2e53ec2e-c35e-4248-b062-a1dfabbabc84",
+                "resourcePath": "objects\\obj_Recycling_Animation_Star_1\\obj_Recycling_Animation_Star_1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "463e0ede-de68-4733-87fb-aae9704b2393",
             "Value": {
                 "id": "ab7fe966-cecc-4990-a132-4a7d53582ec8",
@@ -292,6 +316,14 @@
                 "id": "2c312f96-9395-4e05-ae89-8049d40e0aa5",
                 "resourcePath": "objects\\obj_Credits_Danileny\\obj_Credits_Danileny.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "48c2ab58-2059-4ae2-8506-e5ecee3ecc08",
+            "Value": {
+                "id": "59e0a63b-c657-42e4-8e22-36d51c6879d8",
+                "resourcePath": "rooms\\rm_Recycling_Congratulations\\rm_Recycling_Congratulations.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -380,6 +412,22 @@
                 "id": "caf76d1e-d9ff-4e4d-a5d5-f0102baf8eda",
                 "resourcePath": "sprites\\spr_Recycling_Objects_Banana\\spr_Recycling_Objects_Banana.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "52497751-c1dd-4778-976e-7b2356157d48",
+            "Value": {
+                "id": "09300d23-097a-41ea-9d56-f0417fc9def2",
+                "resourcePath": "objects\\obj_Recycling_Refresh\\obj_Recycling_Refresh.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "530b0e4d-2745-47ac-a16c-09e0f9afe616",
+            "Value": {
+                "id": "bbc228b3-4ebc-4116-94c6-3a5a2f0bfd10",
+                "resourcePath": "paths\\path_GarbageTruck_0\\path_GarbageTruck_0.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -1031,6 +1079,14 @@
             }
         },
         {
+            "Key": "b4176ba7-2cb7-46d4-8cdf-3db5c1e160ed",
+            "Value": {
+                "id": "9ffcd5a3-a5d8-4a93-a77c-061e02c77f48",
+                "resourcePath": "objects\\obj_GarbageTruck_Left_0\\obj_GarbageTruck_Left_0.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b44e2f32-1215-4708-ac45-b8010f21cb24",
             "Value": {
                 "id": "02b4f56f-925c-4cea-b7ec-3c9c016e5fc3",
@@ -1108,6 +1164,14 @@
                 "id": "8d9dce1a-f38e-4338-8f53-a0b87945b81f",
                 "resourcePath": "sprites\\spr_Refresh\\spr_Refresh.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c636c047-af7e-46a4-8dcc-642a2a01e60a",
+            "Value": {
+                "id": "cc556509-2c1f-4049-adb8-d8ca4a1f0ac5",
+                "resourcePath": "objects\\obj_Recycling_Creator_3\\obj_Recycling_Creator_3.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1239,6 +1303,14 @@
             }
         },
         {
+            "Key": "e2d4f594-c63d-4fc6-a4c3-44ce1d187c2f",
+            "Value": {
+                "id": "35b8955d-aa94-4f4d-be0c-5522843ada15",
+                "resourcePath": "objects\\obj_Recycling_Creator_4\\obj_Recycling_Creator_4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e3cd6b89-4711-41e6-8a1a-1f458492a4ec",
             "Value": {
                 "id": "f1f67290-cb20-4015-972e-2d62774fa3a2",
@@ -1276,6 +1348,14 @@
                 "id": "af6c8fd9-9862-4fe6-8a2a-6f659e9b943e",
                 "resourcePath": "sprites\\spr_MainMenu_Themes\\spr_MainMenu_Themes.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e7f57341-5b1c-42c6-940c-9c8079b7991e",
+            "Value": {
+                "id": "3464773f-95d3-4268-844e-3f2293fab7cd",
+                "resourcePath": "rooms\\rm_Recycling_5\\rm_Recycling_5.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1351,6 +1431,14 @@
             }
         },
         {
+            "Key": "f2397a28-34ec-4775-b8d7-3fa76b036fd1",
+            "Value": {
+                "id": "2267a966-3546-44c9-afb5-b9120c41ef5d",
+                "resourcePath": "rooms\\rm_Recycling_3\\rm_Recycling_3.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "f3f89a08-7e10-4bcf-8efc-af593987b2d6",
             "Value": {
                 "id": "bd4ccf12-e254-411b-a5b8-2cd3126b462a",
@@ -1363,6 +1451,14 @@
             "Value": {
                 "id": "6dceb31e-879c-48d5-bf77-f64de21522f5",
                 "resourcePath": "objects\\obj_Recycling_Organic_Potato\\obj_Recycling_Organic_Potato.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f6abbd61-d5c5-4699-80dd-5955d63a0858",
+            "Value": {
+                "id": "75f89d0a-9119-4586-8ed7-c487e4ac523b",
+                "resourcePath": "objects\\obj_Recycling_Creator_5\\obj_Recycling_Creator_5.yy",
                 "resourceType": "GMObject"
             }
         },

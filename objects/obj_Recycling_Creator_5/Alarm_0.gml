@@ -1,0 +1,1 @@
+alarm[1] = irandom_range(min_time_respaw, max_time_respaw)
