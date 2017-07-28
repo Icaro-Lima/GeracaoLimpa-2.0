@@ -2,7 +2,7 @@
     "id": "530b0e4d-2745-47ac-a16c-09e0f9afe616",
     "modelName": "GMPath",
     "mvc": "1.0",
-    "name": "path_GarbageTruck_0",
+    "name": "path_Recycling_Star_0",
     "closed": false,
     "hsnap": 0,
     "kind": 0,
@@ -11,32 +11,24 @@
             "id": "4f689f78-870a-42b5-bc1c-b9b9582f7451",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": -80,
-            "y": 80,
+            "x": -128,
+            "y": 0,
             "speed": 200
         },
         {
-            "id": "31cb7453-23c0-4c22-aa45-f884370a1418",
+            "id": "53f8d833-1627-4ce3-bf95-544a00d12f60",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 320,
-            "y": 80,
-            "speed": 80
+            "x": 340,
+            "y": 0,
+            "speed": 100
         },
         {
-            "id": "2d605714-a087-4c74-80ab-19b031394268",
+            "id": "214c2a06-8237-4a4b-a8b8-69315db0141f",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
             "x": 368,
-            "y": 80,
-            "speed": 400
-        },
-        {
-            "id": "7a5c3e43-a89c-4ec4-be58-9326d23071cf",
-            "modelName": "GMPathPoint",
-            "mvc": "1.0",
-            "x": 1488,
-            "y": 80,
+            "y": 1,
             "speed": 100
         }
     ],

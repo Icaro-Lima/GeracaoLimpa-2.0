@@ -1,18 +1,28 @@
 {
-    "id": "1709e514-19d0-4867-98ec-8cb9fabf0898",
+    "id": "3291b76f-39f7-4621-a0bc-00e82068b295",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Recycling_Animation_Star_1",
+    "name": "obj_GarbageTruck_Left_1",
     "eventList": [
         {
-            "id": "d4cb79c4-2151-48e8-9702-cae357bd29ed",
+            "id": "2f1ffd82-a3ea-4a95-bebb-4244e6db6c4e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "1709e514-19d0-4867-98ec-8cb9fabf0898"
+            "m_owner": "3291b76f-39f7-4621-a0bc-00e82068b295"
+        },
+        {
+            "id": "09df9f83-a63a-4d85-8140-13c362e2ea54",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "3291b76f-39f7-4621-a0bc-00e82068b295"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -31,6 +41,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "f8089562-ad7d-4ae5-b796-21a7a59ac713",
+    "spriteId": "2925e653-5325-449e-ba00-6a08fd57276a",
     "visible": true
 }

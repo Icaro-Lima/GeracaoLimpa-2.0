@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "1709e514-19d0-4867-98ec-8cb9fabf0898",
+            "Value": {
+                "id": "8aea88af-f029-4d90-903b-d466c2d33fd7",
+                "resourcePath": "objects\\obj_Recycling_Animation_Star_1\\obj_Recycling_Animation_Star_1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "17421997-ae9a-46d5-9ba0-6860341ae69b",
             "Value": {
                 "id": "9f5001d5-2361-43d6-afa8-c589735ae6f5",
@@ -263,6 +271,14 @@
             }
         },
         {
+            "Key": "3291b76f-39f7-4621-a0bc-00e82068b295",
+            "Value": {
+                "id": "7da23b6b-aa76-4869-9124-6b1d8203bb65",
+                "resourcePath": "objects\\obj_GarbageTruck_Left_1\\obj_GarbageTruck_Left_1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3692af5d-8195-43e8-8d33-9fa14faf3272",
             "Value": {
                 "id": "20bed00e-0d5f-4ddb-8261-047135884233",
@@ -282,7 +298,7 @@
             "Key": "38996a70-e736-47a6-84a8-5f9fd3ac353b",
             "Value": {
                 "id": "2e53ec2e-c35e-4248-b062-a1dfabbabc84",
-                "resourcePath": "objects\\obj_Recycling_Animation_Star_1\\obj_Recycling_Animation_Star_1.yy",
+                "resourcePath": "objects\\obj_Recycling_Animation_Star_0\\obj_Recycling_Animation_Star_0.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -426,7 +442,7 @@
             "Key": "530b0e4d-2745-47ac-a16c-09e0f9afe616",
             "Value": {
                 "id": "bbc228b3-4ebc-4116-94c6-3a5a2f0bfd10",
-                "resourcePath": "paths\\path_GarbageTruck_0\\path_GarbageTruck_0.yy",
+                "resourcePath": "paths\\path_Recycling_Star_0\\path_Recycling_Star_0.yy",
                 "resourceType": "GMPath"
             }
         },
@@ -500,6 +516,14 @@
                 "id": "be43faae-044a-4d9d-a886-d2b3279dbaca",
                 "resourcePath": "rooms\\rm_Traffic_0\\rm_Traffic_0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "6378ca62-51c3-4441-b0dd-5d374f4faee8",
+            "Value": {
+                "id": "9ff06061-813c-4f13-885a-f57019688a3a",
+                "resourcePath": "objects\\obj_Recycling_Star_0\\obj_Recycling_Star_0.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -599,6 +623,14 @@
             }
         },
         {
+            "Key": "6d962094-800a-43fb-ba93-52205cb4ac77",
+            "Value": {
+                "id": "6d1d36dc-3aa5-4e3a-a372-ad287a485901",
+                "resourcePath": "objects\\obj_Recycling_Animation_Star_2\\obj_Recycling_Animation_Star_2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6db3c962-9927-4f3b-91cf-b40859542156",
             "Value": {
                 "id": "ae487eed-71ec-47f0-8801-50ac57beff79",
@@ -695,6 +727,14 @@
             }
         },
         {
+            "Key": "806ae689-957a-4a48-b8a0-9f9c41eaf648",
+            "Value": {
+                "id": "bf10ddb3-a16a-4d43-9742-7ccd77bb174f",
+                "resourcePath": "paths\\path_Recycling_Star_2\\path_Recycling_Star_2.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "817b6260-491c-4755-ad39-51b38060b006",
             "Value": {
                 "id": "29f9c59e-1136-45ed-a147-f5a8d796ca1e",
@@ -740,6 +780,14 @@
                 "id": "23b9ee95-a59c-44bf-a987-4dcaddf5ade0",
                 "resourcePath": "rooms\\rm_Traffic_1\\rm_Traffic_1.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "84c91fbc-f9ac-4334-898a-c2c24250e776",
+            "Value": {
+                "id": "c3d164e8-756f-48ab-908b-f8438ca1a90f",
+                "resourcePath": "objects\\obj_GarbageTruck_Left_2\\obj_GarbageTruck_Left_2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1340,6 +1388,14 @@
                 "id": "5a69e270-b832-4734-b391-3cb917bde3c0",
                 "resourcePath": "objects\\obj_Recycling_Creator_2\\obj_Recycling_Creator_2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e5f9555a-0f6c-4d18-8774-ebd99958d37b",
+            "Value": {
+                "id": "809d0359-b130-4e50-886c-7c9a557b5e55",
+                "resourcePath": "paths\\path_Recycling_Star_1\\path_Recycling_Star_1.yy",
+                "resourceType": "GMPath"
             }
         },
         {
