@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "435fc8e4-96ab-440a-96d3-f7585791e9c2",
+            "Value": {
+                "id": "8586273e-845e-4b27-9141-55d3693f2551",
+                "resourcePath": "sounds\\sound_ChooseGames_Wrong\\sound_ChooseGames_Wrong.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "463e0ede-de68-4733-87fb-aae9704b2393",
             "Value": {
                 "id": "ab7fe966-cecc-4990-a132-4a7d53582ec8",
@@ -804,6 +812,14 @@
                 "id": "c3d164e8-756f-48ab-908b-f8438ca1a90f",
                 "resourcePath": "objects\\obj_GarbageTruck_Left_2\\obj_GarbageTruck_Left_2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "876197db-0a78-4a51-ae34-a0f0333c2fa5",
+            "Value": {
+                "id": "a0813d95-bcce-44b6-ab24-03835058a960",
+                "resourcePath": "sounds\\sound_Recycling_Correct\\sound_Recycling_Correct.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1324,6 +1340,14 @@
                 "id": "24b41a26-1761-466e-a22b-d8598d783c2f",
                 "resourcePath": "sprites\\spr_Credits_Icaro\\spr_Credits_Icaro.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d0f06eab-a529-4b26-b476-75764a9bb92c",
+            "Value": {
+                "id": "93080904-a1e1-48f6-81d7-3c6c89a57b56",
+                "resourcePath": "sounds\\sound_ChooseGames_Good\\sound_ChooseGames_Good.yy",
+                "resourceType": "GMSound"
             }
         },
         {
