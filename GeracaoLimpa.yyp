@@ -311,14 +311,6 @@
             }
         },
         {
-            "Key": "397b2995-f751-48d1-ad02-f8000eab62b0",
-            "Value": {
-                "id": "fae9ea01-7a85-4cb6-b7bf-dcd6a1bc46d1",
-                "resourcePath": "tilesets\\ts_Recycling\\ts_Recycling.yy",
-                "resourceType": "GMTileSet"
-            }
-        },
-        {
             "Key": "463e0ede-de68-4733-87fb-aae9704b2393",
             "Value": {
                 "id": "ab7fe966-cecc-4990-a132-4a7d53582ec8",
@@ -967,6 +959,14 @@
             }
         },
         {
+            "Key": "96d9cd14-1f2b-4c6e-9964-fa20e3199232",
+            "Value": {
+                "id": "89debe42-f6b9-4256-9ebc-fffab3c5eac2",
+                "resourcePath": "sprites\\spr_Recycling_Background_0\\spr_Recycling_Background_0.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "991bc73b-82ed-422d-ad6c-a2a197c56c35",
             "Value": {
                 "id": "5355d213-5db0-4717-9f38-023dfe04e8ed",
@@ -1027,14 +1027,6 @@
             "Value": {
                 "id": "9ace3b22-44c2-4cc5-9f74-eb5ffec95043",
                 "resourcePath": "sprites\\spr_Recycling_Caps_Organic\\spr_Recycling_Caps_Organic.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "a7763584-8e47-42bb-a012-6c383d2311a5",
-            "Value": {
-                "id": "b8583c56-10be-4802-841a-5a42ddf68e48",
-                "resourcePath": "sprites\\spr_Recycling_Tileset\\spr_Recycling_Tileset.yy",
                 "resourceType": "GMSprite"
             }
         },
