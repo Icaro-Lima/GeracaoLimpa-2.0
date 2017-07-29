@@ -1,4 +1,4 @@
 event_inherited()
 
-people_name = "Danileny ??"
-people_function = "??"
+people_name = "Danileny Carvalho"
+people_function = "Assessora de Comunicação"
