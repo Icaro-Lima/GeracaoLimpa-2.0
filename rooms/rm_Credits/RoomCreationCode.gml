@@ -22,8 +22,8 @@ ds_list_delete(global.team_positions, pos)
 
 
 global.voluntary_positions = ds_list_create()
+ds_list_add(global.voluntary_positions, 8)
 ds_list_add(global.voluntary_positions, 8 + 144)
-ds_list_add(global.voluntary_positions, 8 + 144 * 2)
 
 pos = irandom_range(0, ds_list_size(global.voluntary_positions) - 1)
 instance_create_depth(512, ds_list_find_value(global.voluntary_positions, pos), 0, obj_Credits_Flavio)
