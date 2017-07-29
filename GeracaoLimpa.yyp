@@ -151,14 +151,6 @@
             }
         },
         {
-            "Key": "12c953aa-b7a2-48f9-a0e3-0b181b5b6dc5",
-            "Value": {
-                "id": "52a71219-9a32-4636-be57-8ddef9283757",
-                "resourcePath": "objects\\obj_Recycling_Metal_Fork\\obj_Recycling_Metal_Fork.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "16793bc5-d232-4d2c-a238-f5843de2a947",
             "Value": {
                 "id": "17defb0e-c027-43ae-bf88-e30c193939a5",
@@ -287,6 +279,14 @@
             }
         },
         {
+            "Key": "338e45aa-3cf6-4c74-9aa5-9671235672b4",
+            "Value": {
+                "id": "9f4d8342-1833-4715-821b-a4b6b6ac53d0",
+                "resourcePath": "sounds\\sound_Recycling_Background\\sound_Recycling_Background.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "3692af5d-8195-43e8-8d33-9fa14faf3272",
             "Value": {
                 "id": "20bed00e-0d5f-4ddb-8261-047135884233",
@@ -316,6 +316,14 @@
                 "id": "8586273e-845e-4b27-9141-55d3693f2551",
                 "resourcePath": "sounds\\sound_ChooseGames_Wrong\\sound_ChooseGames_Wrong.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "456b0691-3873-47cb-b910-79b4138a3bdc",
+            "Value": {
+                "id": "918e06ee-2f6b-4ce2-a308-c73adadd4597",
+                "resourcePath": "objects\\obj_Recycling_Background_Music_Controller\\obj_Recycling_Background_Music_Controller.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1279,6 +1287,14 @@
             }
         },
         {
+            "Key": "c869ccb8-be58-4ee6-939d-c0747ddb3516",
+            "Value": {
+                "id": "15dfb695-3e4f-48cb-922c-dc0a0c259c71",
+                "resourcePath": "sounds\\sound_Star\\sound_Star.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "c8ed8216-4e3b-40c5-a7de-4058fb09be42",
             "Value": {
                 "id": "52d6b5ea-2cbe-4a30-a15e-781f3699ce00",
@@ -1388,6 +1404,14 @@
                 "id": "6b6bb821-7a6c-4c7f-b181-ba00f5dd9bc9",
                 "resourcePath": "views\\dc7fa362-aadf-45fe-8bb1-cb59a17cbe05.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dde3f23e-ea03-457a-bac2-88af1f5a6818",
+            "Value": {
+                "id": "18b86b88-5cf5-4b68-b778-daaae1f3e3be",
+                "resourcePath": "sounds\\sound_Congratulations\\sound_Congratulations.yy",
+                "resourceType": "GMSound"
             }
         },
         {

@@ -7,6 +7,6 @@ if ini_read_real("Recycling", "last_room", -1) != -1 {
 	ini_close()
 } else {
 	ini_close()
-	
+	instance_create_depth(x, y, 0, obj_Recycling_Background_Music_Controller)
 	room_goto(rm_Recycling_0)
 }
