@@ -1,0 +1,3 @@
+sprite_index = choose(spr_Recycling_Objects_Banana, spr_Recycling_Objects_Bottle, spr_Recycling_Objects_Coke, spr_Recycling_Objects_Egg, spr_Recycling_Objects_Fork, spr_Recycling_Objects_Glass, spr_Recycling_Objects_GlassBottle, spr_Recycling_Objects_NewsPaper, spr_Recycling_Objects_Potato, spr_Recycling_Objects_Tin, spr_Recycling_Objects_Tomato)
+direction = irandom_range(270 - 5, 270 + 5)
+speed = 15

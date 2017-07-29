@@ -367,6 +367,14 @@
             }
         },
         {
+            "Key": "4a5b88bc-03c3-46b7-9651-fd8ff98c3cb8",
+            "Value": {
+                "id": "35369a73-cb42-4154-95d5-e5b89489e167",
+                "resourcePath": "objects\\obj_Recycling_RandomTrash\\obj_Recycling_RandomTrash.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4ba86aea-d38c-41be-9331-8c9e9bcbdd96",
             "Value": {
                 "id": "1f7599f3-0b63-4fd0-97ad-420ea27be10a",
@@ -803,6 +811,14 @@
             "Value": {
                 "id": "7a297279-00fd-432d-a388-9e4c335d01db",
                 "resourcePath": "objects\\obj_Recycling_Collision\\obj_Recycling_Collision.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8aeff9da-1147-4998-bc57-8f6b95722ef1",
+            "Value": {
+                "id": "51a77dc9-588a-42e3-8192-b8ce6ed7e58a",
+                "resourcePath": "objects\\obj_Recycling_Trophy\\obj_Recycling_Trophy.yy",
                 "resourceType": "GMObject"
             }
         },

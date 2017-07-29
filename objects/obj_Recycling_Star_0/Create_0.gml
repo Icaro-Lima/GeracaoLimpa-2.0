@@ -1,5 +1,3 @@
-global.recycling_points = 20
-
 draw_percent = 0
 draw_percent_max = min(global.recycling_points, 20) / 20
 start_draw = false
