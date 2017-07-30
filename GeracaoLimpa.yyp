@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "1322ad2a-5371-49e9-99d2-95c1b62ae48c",
+            "Value": {
+                "id": "22903d88-e561-452a-a566-136d0eef3660",
+                "resourcePath": "rooms\\rm_Traffic_6\\rm_Traffic_6.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "16793bc5-d232-4d2c-a238-f5843de2a947",
             "Value": {
                 "id": "17defb0e-c027-43ae-bf88-e30c193939a5",
@@ -420,6 +428,14 @@
                 "id": "0c44d7a1-9975-43b5-9285-258d31d85f55",
                 "resourcePath": "objects\\obj_MainMenu_Credits\\obj_MainMenu_Credits.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4c633023-8b53-4111-80d9-2065494e4226",
+            "Value": {
+                "id": "72e363d6-de30-4b88-a169-9eca987d2224",
+                "resourcePath": "sprites\\spr_Traffic_ChooseGames7\\spr_Traffic_ChooseGames7.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1607,6 +1623,14 @@
             }
         },
         {
+            "Key": "f2d38ea6-ebf3-4a57-aeb1-6f9be8f724c7",
+            "Value": {
+                "id": "384b68f9-d405-405d-9fb2-e41f6b59d0ae",
+                "resourcePath": "sprites\\spr_Traffic_ChooseGames6\\spr_Traffic_ChooseGames6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f3f89a08-7e10-4bcf-8efc-af593987b2d6",
             "Value": {
                 "id": "bd4ccf12-e254-411b-a5b8-2cd3126b462a",
@@ -1668,6 +1692,14 @@
                 "id": "872bec28-c2b2-4eab-a019-5545d9e25b26",
                 "resourcePath": "objects\\obj_Recycling_Metal_Tin\\obj_Recycling_Metal_Tin.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fe1780a6-2200-4252-a4b7-f1098713acd7",
+            "Value": {
+                "id": "a523dd12-86f2-40d2-ae9d-d4a780483020",
+                "resourcePath": "rooms\\rm_Traffic_7\\rm_Traffic_7.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
