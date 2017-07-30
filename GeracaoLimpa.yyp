@@ -935,6 +935,14 @@
             }
         },
         {
+            "Key": "903ba476-5eeb-4ba5-8d9a-6a046d340247",
+            "Value": {
+                "id": "ae6c2163-e993-41f3-b515-f5d1e899daec",
+                "resourcePath": "sprites\\spr_Recycling_Background_1\\spr_Recycling_Background_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9046ef65-218a-4de1-8e81-120a6f84b3ef",
             "Value": {
                 "id": "fb0e75f4-b733-4b7e-9465-b8c06f0de370",

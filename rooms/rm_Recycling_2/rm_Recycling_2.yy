@@ -218,7 +218,7 @@
             },
             "hspeed": 0,
             "htiled": false,
-            "spriteId": "96d9cd14-1f2b-4c6e-9964-fa20e3199232",
+            "spriteId": "903ba476-5eeb-4ba5-8d9a-6a046d340247",
             "stretch": false,
             "userdefined_animFPS": false,
             "vspeed": 0,
