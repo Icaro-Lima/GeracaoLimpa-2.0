@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "05c0296e-8f4e-44fd-bb90-8e1ff96b0be8",
+            "Value": {
+                "id": "a5959080-d5e8-46ed-aab0-5f7e6625b20a",
+                "resourcePath": "objects\\obj_Traffic_ChooseGames_Music_Controller\\obj_Traffic_ChooseGames_Music_Controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0704f27e-2fe8-4226-8fbf-1a4e7b100c8f",
             "Value": {
                 "id": "2153763f-a0cd-4431-bcfa-a45703724662",
@@ -1332,6 +1340,14 @@
                 "id": "cc556509-2c1f-4049-adb8-d8ca4a1f0ac5",
                 "resourcePath": "objects\\obj_Recycling_Creator_3\\obj_Recycling_Creator_3.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c7dca6e3-0f78-47ac-8bce-35fff5bdd6f7",
+            "Value": {
+                "id": "fff7a6af-608e-42d7-b911-b0437b5a97f4",
+                "resourcePath": "sounds\\sound_Traffic_ChooseGames_Background\\sound_Traffic_ChooseGames_Background.yy",
+                "resourceType": "GMSound"
             }
         },
         {
