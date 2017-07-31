@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "2177274d-8d1a-4f43-8be2-5ca9dd33d9b0",
+            "Value": {
+                "id": "5ed23d41-035b-4cd1-a1d2-1811c4252979",
+                "resourcePath": "sprites\\spr_MainMenu_Logo\\spr_MainMenu_Logo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "21bdb1a6-b917-477d-a8c2-90751d4d8e5c",
             "Value": {
                 "id": "909ffe9a-9d2b-428e-805f-a06f08b6fc19",
