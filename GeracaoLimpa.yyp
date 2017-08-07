@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "298c2f4a-e183-4939-ab8c-332a952cf383",
+            "Value": {
+                "id": "52f39bf8-c7c3-4389-9844-21e05bbc1613",
+                "resourcePath": "sprites\\spr_LoadingTruck\\spr_LoadingTruck.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2b759719-b2aa-40c7-ad65-d4a044eb5021",
             "Value": {
                 "id": "fb49c0d1-fea3-4c21-b8b7-8b269cefae8a",
@@ -1175,6 +1183,14 @@
             }
         },
         {
+            "Key": "aa7dffb4-b636-4780-954c-f096fac94d41",
+            "Value": {
+                "id": "70962572-14d7-46c1-9a30-f589b7a7dd36",
+                "resourcePath": "rooms\\rm_LoadingGames\\rm_LoadingGames.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "aa8f895b-2dbf-4173-99de-3bf9adc07375",
             "Value": {
                 "id": "742a2d03-d88e-47ed-84fa-f59de5873581",
@@ -1499,6 +1515,14 @@
             "Value": {
                 "id": "0276331b-7965-4c92-a0ca-ac972b950120",
                 "resourcePath": "objects\\obj_SaveOnGameEnd\\obj_SaveOnGameEnd.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d736a92f-f212-4b19-9214-d796c8fa1280",
+            "Value": {
+                "id": "7969c43f-2d0f-4ff7-8af0-91f3f03500d3",
+                "resourcePath": "objects\\obj_LoadingTruck\\obj_LoadingTruck.yy",
                 "resourceType": "GMObject"
             }
         },
