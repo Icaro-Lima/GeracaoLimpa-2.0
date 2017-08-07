@@ -17,4 +17,4 @@ Aplicação web desenvolvida com Java, utilizando framework VRaptor 4.
 Necessário para utilizar: servidor Jetty Web 8.1.8 v20121106 ou Tomcat 7, 8 ou 9.
 
 
-Link para testar o aplicativo: https://play.google.com/apps/testing/com.geracaoLimpaOrg.geracaoLimpa
+Link do aplicativo no Google Play: https://play.google.com/store/apps/details?id=com.geracaoLimpaOrg.geracaoLimpa
