@@ -1,3 +1,4 @@
 event_inherited()
 
-room_goto(rm_Games)
+
+alarm[0] = 1
