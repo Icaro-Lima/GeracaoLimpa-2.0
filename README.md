@@ -19,6 +19,3 @@ Geração Limpa
 	Após instalar, basta apenas encontrar o ícone do nosso aplicativo e clicar para iniciar ;)
 
 	Requisito mínimo: Um smartphone com sistema operacional Android 2.2 ou superior.
-
-Aplicação web desenvolvida com Java, utilizando framework VRaptor 4.  
-Necessário para utilizar: servidor Jetty Web 8.1.8 v20121106 ou Tomcat 7, 8 ou 9.
