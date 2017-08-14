@@ -7,5 +7,5 @@ if distance <= 250 {
 	
 	physics_apply_impulse(mouse_x, mouse_y, force_x / distance, force_y / distance)
 	
-	effect_create_above(ef_ring, mouse_x, mouse_y, 1, c_blue)
+	effect_create_above(ef_ring, mouse_x, mouse_y, 1, c_cian)
 }
