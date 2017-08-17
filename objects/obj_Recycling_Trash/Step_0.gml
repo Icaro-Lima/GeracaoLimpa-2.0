@@ -6,5 +6,3 @@ if y >= room_height {
 		instance_destroy()
 	}
 }
-
-c_cian = make_color_rgb(0, 255, 255)
