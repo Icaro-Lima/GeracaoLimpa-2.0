@@ -1,2 +1,2 @@
 credits = ""
-limit_y = 0
+limit_x = 0

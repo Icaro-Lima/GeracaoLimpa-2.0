@@ -1551,6 +1551,14 @@
             }
         },
         {
+            "Key": "d9ae184f-4f0a-4818-b8c0-b46962534739",
+            "Value": {
+                "id": "bbdf2e19-c3b8-434d-bd9a-e5697e48d383",
+                "resourcePath": "objects\\obj_Credits_Petronio\\obj_Credits_Petronio.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dc7fa362-aadf-45fe-8bb1-cb59a17cbe05",
             "Value": {
                 "id": "6b6bb821-7a6c-4c7f-b181-ba00f5dd9bc9",
@@ -1747,6 +1755,14 @@
             "Value": {
                 "id": "384b68f9-d405-405d-9fb2-e41f6b59d0ae",
                 "resourcePath": "sprites\\spr_Traffic_ChooseGames6\\spr_Traffic_ChooseGames6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f3aa007c-5860-4e5e-ba3a-7e3e9027145e",
+            "Value": {
+                "id": "b8d8b0b2-df01-48e6-93be-e6ddd09fa27a",
+                "resourcePath": "sprites\\spr_Credits_Petronio\\spr_Credits_Petronio.yy",
                 "resourceType": "GMSprite"
             }
         },

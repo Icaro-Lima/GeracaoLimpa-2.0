@@ -1,5 +1,5 @@
-if y > limit_y {
-	y -= 0.25
+if x < room_width + 16 {
+	x += 0.25
 } else {
-	y = room_height
+	x = limit_x
 }

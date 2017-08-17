@@ -70,7 +70,7 @@
             "mvc": "1.0",
             "depth": 100,
             "grid_x": 16,
-            "grid_y": 32,
+            "grid_y": 16,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "inheritLayerDepth": false,
@@ -119,8 +119,8 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_6193D9C8",
-                    "x": 528,
-                    "y": 448,
+                    "x": 898,
+                    "y": 0,
                     "IsDnD": false,
                     "colour": {
                         "Value": 4294967295
@@ -131,8 +131,8 @@
                     "name_with_no_file_rename": "inst_6193D9C8",
                     "objId": "aaba416e-9b39-489d-950c-47331e1505d1",
                     "rotation": 0,
-                    "scaleX": 5.25,
-                    "scaleY": 1
+                    "scaleX": 1,
+                    "scaleY": 5.25
                 }
             ]
         },
