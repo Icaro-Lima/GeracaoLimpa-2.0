@@ -60,7 +60,7 @@
     "option_android_version": {
         "build": 0,
         "major": 2,
-        "minor": 2,
+        "minor": 4,
         "revision": 0
     }
 }
