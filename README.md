@@ -3,11 +3,10 @@
 Geração Limpa
 
 # Vídeos
-[Demonstração](https://youtu.be/CAhST5jxPf4)
+#### [Demonstração](https://youtu.be/CAhST5jxPf4)
+#### [Vídeo feito em outra trilha do hackfest](https://youtu.be/7SSWZxibPmw)
 
-[Vídeo feito em outra trilha do hackfest](https://youtu.be/7SSWZxibPmw)
-
-
+# Informação útil
 - Como compilar uma versão:
 	Baixe o Game Maker Studio 2.0 (daqui pra frente irei refenrenciar como GMS2);
 	Instale o GMS2;
