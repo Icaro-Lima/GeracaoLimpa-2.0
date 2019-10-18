@@ -3,8 +3,8 @@
 Geração Limpa
 
 # Vídeos
-#### [Demonstração](https://youtu.be/CAhST5jxPf4)
-#### [Vídeo feito em outra trilha do hackfest](https://youtu.be/7SSWZxibPmw)
+#### [Demonstração](https://youtu.be/7SSWZxibPmw)
+#### [Vídeo feito em outra trilha do hackfest](https://youtu.be/CAhST5jxPf4)
 
 # Informação útil
 - Como compilar uma versão:
